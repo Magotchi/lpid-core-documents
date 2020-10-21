@@ -4,10 +4,6 @@
 
 The name of the corporation shall be the Libertarian Party of Idaho, hereinafter referred to as the "Party."
 
-## ARTICLE II: Period of Duration
-
-The duration of the Party shall be perpetual.
-
 ## ARTICLE II: Purposes
 
 The purpose for which the Party is organized is to implement and give voice to the Statement of Principles of the National Libertarian Party by:
@@ -44,14 +40,6 @@ The officers of the Party shall be a Chairperson, a Vice-Chairperson, Secretary 
 
 No offices shall be combined.
 
-### SECTION 3
-
-The current officers pro tem shall perform all prescribed duties until the elected officers take office.
-
-### SECTION 4
-
-The officers shall be full voting members of the Executive Committee, unless under notification of suspension.
-
 ---
 
 Duties of Officers:
@@ -60,37 +48,17 @@ Duties of Officers:
 
 The Chairperson shall preside at all conventions and at all meetings of the Executive Committee. The Chairperson shall be the chief executive officer of the Party.
 
-### SECTION 1
-
-The Chairperson shall preside at all meetings of the Party and shall perform such duties as usually pertain to the office of Chair and perform such other duties as are assigned by the Executive Committee.
-
 ### SECTION 4
 
 The Vice-Chairperson shall act as assistant to the Chairperson, and shall perform the duties of the Chair in the event the Chairperson is, for any reason, unable to perform the duties of that office.
-
-### SECTION 2
-
-The Vice-Chairperson shall act as assistant to the Chair and shall perform the duties of the Chair in the Chairperson's absence and shall also perform such other duties as are assigned by the Executive Committee.
 
 ### SECTION 5
 
 The Secretary shall be the recording officer of the Party, and shall provide or make provision for all legal services to the Party, under the direction of the Executive Committee. The Secretary shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
 
-### SECTION 3
-
-The Secretary shall keep an accurate and complete record of the proceedings of all meetings of the Party and the Executive Committee and shall keep these records up-to-date and in order in the master book containing the official minutes of the Party. At each meeting the Secretary shall present the minutes of the previous meeting for approval. In all elections and roll call votes, the Secretary shall call the roll of the registered members and shall keep an accurate tally of such votes. The Secretary may appoint assistants for this purpose and, in contested elections, with the consent of a majority of the members of the Party one representative for each contestant in question plus one additional member, if needed, so that the Board shall consist of an odd number of persons.
-
 ### SECTION 6
 
 The Treasurer shall receive, expend, and account for the funds of the Party under the supervision and direction of the Chairperson and the Executive Committee. The records for such funds shall be maintained in accordance with generally accepted accounting principles and the Treasurer shall make available to the Executive Committee quarterly financial reports, such reports to include a Statement of Operations and a Balance Sheet.
-
-### SECTION 4
-
-The Treasurer, or the Treasurer's designated agent, shall receive and give receipts for all moneys paid to the Party and shall deposit same in such bank or banks as have been designated by the Executive Committee. The Treasurer shall present a written report in accordance with the Constitution or at any other time when requested to do so by the Executive Committee. The Treasurer shall file reports required by any government agency in the format and on the timetable specified by the agency. The Treasurer shall, at the direction of the Executive Committee, present the financial records of the Party for audit by such auditors as the Executive Committee shall specify. Expenditures of funds shall be made only in accordance with regulations established by the Executive Committee. Not later than January 5th of each year the Treasurer shall send a dues notice to each member of the Party (if applicable).
-
-### SECTION 9
-
-Except as otherwise provided herein, the officers of the Party shall have such power and perform such duties as shall be prescribed in the By-Laws of the Party.
 
 ### SECTION 7
 
@@ -109,10 +77,6 @@ Regular Conventions shall be held in each even-numbered year, in the final two w
 ### SECTION 2
 
 In the event that a national party Regular Convention shall be held within 45 days following the state party Regular Convention, the Executive Committee shall solicit the membership for nominees for delegates to the national convention, and shall submit a preliminary delegate list to the national party no less than 45 days prior to the national convention. Final delegates shall then be selected at the state party Regular Convention.
-
-### SECTION 3
-
-All Party Conventions may be attended by all members of the Party.
 
 ### SECTION 3
 
@@ -149,16 +113,6 @@ Regions shall consist of the following counties:
 
 * Region Three shall consist of the following counties: Bannock, Bear Lake, Bingham, Blaine, Bonneville, Butte, Camas, Caribou, Cassia, Clark, Custer, Franklin, Fremont, Gooding, Jefferson, Jerome, Lemhi, Lincoln, Madison, Minidoka, Oneida, Power, Teton, and Twin Falls.
 
-e) If for any reason a Regional Chair is not elected at a Regular Convention, a Regional Chair may be appointed by the Executive Committee, to serve until the next Regular Convention. Such person must be a Party Member in good standing and a resident of the region.
-
-### SECTION 2
-
-The Executive Committee shall take office immediately upon the close of the Regular Convention and serve thereafter until the adjournment of the next Regular Convention.
-
-### SECTION 3
-
-The current Executive Committee pro tem shall perform all prescribed duties until the elected officers take office.
-
 ### SECTION 3
 
 The Executive Committee shall have the control and management of all the affairs, properties, and funds of the Party consistent with this Constitution.
@@ -169,35 +123,13 @@ The Executive Committee shall meet in the manner, time, and places as prescribed
 
 The Executive Committee shall meet at such times and places as may be determined by action of the Committee, by call of the Chair, or by written request of one-third or more of the members of the Executive Committee.
 
-### SECTION 6
-
-All meetings of the Executive Committee shall be open to all members of the Party. Discussion from non-committee members shall be entertained only by majority vote of the Executive Committee.
-
-## ARTICLE II: Executive Committee
-
-### SECTION 1
-
-The Executive Committee shall have such powers and duties as prescribed in the Constitution.
-
 ### SECTION 5
 
 The Executive Committee may without meeting together, transact business by mail and/or e-mail, voting a question submitted to them by or with the approval of the Chair. Ten days shall be allowed for the return of votes thereon by mail to the Party Secretary during the period between a Regular Convention and the next general election, and twenty days at all other times. If at the expiration of the applicable period, the majority of the Executive Committee have not returned their votes, the measure being voted on shall be deemed to have failed; in all other cases, a vote is required by the Constitution. The Secretary must preserve all such votes until the next meeting of the Executive Committee, at which meeting the Executive Committee shall order the disposition of the votes.
 
-### SECTION 4
-
-More than one-half of the membership thereof shall constitute a quorum at all meetings of the Executive Committee for the transaction of all business, except where a larger vote is required by the Constitution.
-
-### SECTION 5
-
-Except as otherwise provided in the Constitution, a majority vote of those present at, or in live communication with, a meeting shall rule.
-
 ### SECTION 6
 
 To afford all Committee members the ability to participate in meetings, meetings shall be conducted at a location with technological services available. A "speakerphone" and a telephone connection capable of conference calling shall be the minimum facility requirement. Alternative methods, such as those using the internet, must receive unanimous approval of those committee members that are responsible for providing equipment at the primary and remote locations. The committee and general members attending an Executive meeting shall be individually and severally responsible for any facilities, equipment, transportation, internet, telephone company, and/or other charges required for their participation at or from a particular meeting location.
-
-### SECTION 7
-
-The Chairman, or his designate, shall specify the primary meeting location and shall accommodate the committee members desiring to participate in the meeting from a remote location via technological methods.
 
 ### SECTION 7
 
@@ -243,10 +175,6 @@ The filling of vacancies in the slate of candidates shall be by the County Centr
 
 ## ARTICLE VIII: Committees
 
-All committees shall be appointed as needed until the Party membership increases to 70 members, at which time the following committees will become committees for each Regular Convention and a Judicial Committee shall be a standing committee.
-
-## ARTICLE III: Other Committees
-
 ### SECTION 1
 
 The Finance Chairperson shall have the responsibility of increasing the treasury of the Party, and for such other duties as may be assigned by the Executive Committee. With the help and cooperation of the Executive Committee, the Finance Chairperson shall select a working finance committee to assist in the fulfillment of such Chairperson's duties.
@@ -258,10 +186,6 @@ The Membership Chairperson shall have the responsibility of increasing the membe
 ### SECTION 3
 
 The Publicity Chairperson shall have the responsibility for publicizing the Party and its activities and for such other duties as may be assigned by the Executive Committee. With the help and cooperation of the Executive Committee, the Publicity Chairperson shall select a working publicity committee to assist in the fulfillment of such Chairperson's duties.
-
-### SECTION 4
-
-The Finance Chairperson, Membership Chairperson, and Publicity Chairperson, and all other offices shall be appointed at the first meeting of the Executive Committee after their election.
 
 ### SECTION 4
 
@@ -287,17 +211,9 @@ An Audit Committee of three people, at least one of whom must be a Party member,
 
 There shall be a Judicial Committee appointed by and exclusive of the Executive Committee for the same term as the Executive Committee and shall be composed of nine members: any five will constitute a quorum.
 
-## ARTICLE XI: Judicial Committee
-
-### SECTION 1
-
-At such time that the Judicial Committee becomes established according to the requirements of this Constitution, it shall function as follows:
-
 The Judicial Committee shall not take up any question on their own initiative, but shall consider only those matters brought to their attention at the written request of 5 members of the Party, and only those matters that fall under their jurisdiction as defined in the following sub-sections:
 
 1. Take disciplinary actions against any other party member in accordance with Robert's Rules of Order Newly Revised, except as otherwise provided herein by the Party Constitution and by-laws.
-
-2. Challenges of adopted Party planks believed by a delegate to be in conflict with the Statement of Principles shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
 
 2. Suspension of an officer.
 
@@ -310,56 +226,6 @@ The Judicial Committee shall not take up any question on their own initiative, b
 ### SECTION 9
 
 The Chair shall have the power to form other committees by choice, or by the direction of the Executive Committee, and appoint committee directors.
-
-## ARTICLE XII: By-Laws
-
-### SECTION 1
-
-The By-Laws of the Party shall be initially approved by a majority vote of the membership obtained by mail ballot. Upon such approval, the Executive Committee shall officially adopt and promulgate the By-Laws in accordance with applicable law.
-
-### SECTION 2
-
-The By-Laws of the Party may be amended by a majority vote of the delegates at any Regular Convention of the Party, or by a vote of three-fourths of the State Central Committee at any other time.
-
-## ARTICLE XIII: Convention Government
-
-The convention of the Party shall be governed by the applicable Convention Rules of the National Party unless otherwise amended by the convention. Matters not specifically addressed by convention rules will be governed by Robert's Rules of Order Newly Revised.
-
-## ARTICLE XIV: Constitution
-
-### SECTION 1
-
-This constitution shall be initially adopted by a three-fourths vote of the membership obtained by a mail ballot.
-
-### SECTION 2
-
-This Constitution may be amended by a vote of a majority of members in attendance at the first Regular Convention and, thereafter, by a two-thirds vote of the delegates at any subsequent Convention.
-
-## ARTICLE IV: Convention Committees
-
-### SECTION 1
-
-The Chairperson of the Constitution, By-Laws, Rules, and the Platform Committee shall be the presiding officers.
-
-### SECTION 2
-
-A majority vote of those of the committee members present, or in live communication with the committee at the time of the vote, is necessary for a "do-pass" recommendation, and in the case of the Platform Committee, a majority must approve each specific plank separately.
-
-### SECTION 3
-
-The Committees shall report their recommendations to the floor of the Convention in accordance with the Party Rules.
-
-### SECTION 4
-
-Two or more members of the Platform Committee may join together to insure a minority report regarding any plank to the floor of the Convention. Two or more members of the Constitution, By-Laws, and Rules committee may join together to issue a minority report regarding the Constitution, by-laws, or Rules.
-
-### SECTION 5
-
-A member must be present in committee, or in live communication with the committee at the time of the vote, to vote.
-
-### SECTION 6
-
-More than one-half of the membership of each committee shall constitute a quorum.
 
 ## ARTICLE IX: Finances and Accounting
 
@@ -386,22 +252,6 @@ Robert's Rules of Order Newly Revised shall be the parliamentary authority for a
 ## ARTICLE XI: Amendment to the By-Laws
 
 Amendments to the By-Laws shall be in accordance with the Constitution.
-
-## ARTICLE VIII: Regular Convention Rules
-
-The regular Convention Rules shall be in accordance with the Constitution.
-
-## ARTICLE VIII: Platform
-
-### SECTION 1
-
-The Party shall adopt the platform at its Regular Convention in 1976. The platform shall not be inconsistent with the Statement of Principles adopted by the national party. The platform shall include a Statement of Principles and proposal in the form of planks.
-
-### SECTION 2
-
-The statement of Principles of the Platform affirms the philosophy upon which the Libertarian Party is founded, by which it shall be sustained, and through which Liberty shall prevail.
-
-## ARTICLE IX: Selection and Nomination of Party Officers; Endorsements of Political Candidates
 
 ---
 
@@ -453,13 +303,7 @@ Nominations and elections, in addition to the list of candidates nominated, ther
 
 When NONE OF THE ABOVE receives a majority vote, all candidates on that ballot shall become ineligible for re-nomination for the same office at the same convention. The next order of business shall be the re-opening of nominations from the floor for the office, and election shall proceed according to Article IX of this constitution until such time as the vacancy has been filled or the conventions elects by a two-thirds vote not to select a candidate.
 
-### SECTION 3
-
-The platform, exclusive of the Statement of Principles, shall be adopted on a plank-by-plank basis by the delegates in attendance at the 1976 Regular Convention. Each plank must receive approval by a vote of two-thirds of the voting delegates for inclusion in the Platform.
-
 ### RULE 3: Platform
-
-### SECTION 4
 
 The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
 
@@ -502,7 +346,3 @@ Prior to each duly called national Regular Convention, the Secretary shall certi
 #### SECTION 5
 
 The Chair of the delegation of the Party shall be the highest-ranking Party Officer present as a Delegate. If there is no Party officer present, a majority of the Executive Board shall select an Interim Chair from among their number.
-
----
-
-# Bylaws
