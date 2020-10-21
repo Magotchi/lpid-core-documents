@@ -18,6 +18,8 @@ The purpose for which the Party is organized is to implement and give voice to t
 
 3. Entering into political information activities.
 
+Toward these ends, the Party shall be affiliated with the national Libertarian Party.
+
 ## ARTICLE III: Membership
 
 ### SECTION 1
@@ -27,6 +29,10 @@ All dues-paying members of the Libertarian Party of Idaho shall enjoy full right
 ### SECTION 2
 
 The classes of membership and dues shall be initially determined by the Executive Committee. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at Regular Conventions.
+
+### SECTION 3
+
+Honorary Life Membership. Upon the signed recommendation of one member, seconded by another member, and by a three-fourths vote by ballot at the annual meeting, honorary life membership may be conferred upon an adult resident of Idaho who shall have rendered notable service to the Party. An honorary member shall have none of the obligations of membership in the Party, but shall be entitled to all of the privileges except those of making motions, of voting, and of holding office.
 
 ## ARTICLE IV: Officers
 
@@ -108,9 +114,21 @@ In the event that a national party Regular Convention shall be held within 45 da
 
 All Party Conventions may be attended by all members of the Party.
 
+### SECTION 3
+
+Special meetings may be called by the Chair, or by the Executive Board, or upon the written request of twenty (20) percent of the number of eligible members at the most recent Regular Convention of the Party. The purpose of the meeting shall be stated in the call, which shall be sent to all members at least seven days before the meeting.
+
 ### SECTION 4
 
 Convention attendees may not vote unless they were a member in good standing of the Libertarian Party of Idaho as of the end of January prior to the convention.
+
+### SECTION 5
+
+Convention participation by any person connected to the location of the Chair through any suitable electronic means is permitted, provided the attendee so connected is able to furnish proof to the Chair and/or the Secretary that the person participating is the member so connected. More than one person may be connected via a single such linkage. Such persons connected remotely shall contribute to the quorum.
+
+### SECTION 6
+
+Ten members of the Party shall constitute a quorum for any Convention or Special Meeting of the Party.
 
 ## ARTICLE VI: Executive Committee
 
@@ -122,6 +140,8 @@ The four elected officers of the Party.
 ### SECTION 2
 
 a) Three Regional Chairs elected at the Regular Convention. Each Regional Chair shall represent a specific region of the state, and shall be responsible for organizing a Regional Committee to organize and carry forward the goals of the state party within that region. Regional Chairs must reside in the region they represent, and must be elected by the delegates residing in that region.
+
+Regions shall consist of the following counties:
 
 * Region One shall consist of the following counties: Benewah, Bonner, Boundary, Clearwater, Idaho, Kootenai, Latah, Lewis, Nez Perce, and Shoshone.
 
@@ -185,6 +205,10 @@ Provisions shall be made for observation of the meeting by the general membershi
 
 ## ARTICLE VII: Central Committees
 
+### SECTION 1
+
+There shall be a suite of Central Committees as defined in this Article only when the membership of the Party can support them. In the absence of this structure, the Executive Board shall carry out any and all functions that would be implemented by this structure.
+
 ### SECTION 2
 
 The Constitution and By-Laws of the Libertarian Party of Idaho are also the governing documents of the State Central Committee. The four officers of the Party (Chairperson, Vice-Chairperson, Secretary and Treasurer) are the officers of the State Central Committee.
@@ -239,6 +263,10 @@ The Publicity Chairperson shall have the responsibility for publicizing the Part
 
 The Finance Chairperson, Membership Chairperson, and Publicity Chairperson, and all other offices shall be appointed at the first meeting of the Executive Committee after their election.
 
+### SECTION 4
+
+A Program Committee of five Party members shall be appointed by the Chair promptly after the Regular Convention, whose duty it shall be to plan the annual program of the Party. This committee's report shall be submitted to the Executive Board for approval at its regular meeting in September.
+
 ### SECTION 5
 
 There shall be a Platform Committee, the duties of which shall be:
@@ -251,6 +279,10 @@ b) Shall consist of 7 party members selected as follows: 4 appointed by the Exec
 
 There shall be a Constitution, By-Laws and Rules Committee consisting of seven party members appointed by the Executive Committee.
 
+### SECTION 7
+
+An Audit Committee of three people, at least one of whom must be a Party member, shall be appointed by the Chair at the Party's March meeting, whose duty it shall be to audit the Treasurer's accounts at the close of the fiscal year and to report at the annual meeting.
+
 ### SECTION 8
 
 There shall be a Judicial Committee appointed by and exclusive of the Executive Committee for the same term as the Executive Committee and shall be composed of nine members: any five will constitute a quorum.
@@ -261,9 +293,19 @@ There shall be a Judicial Committee appointed by and exclusive of the Executive 
 
 At such time that the Judicial Committee becomes established according to the requirements of this Constitution, it shall function as follows:
 
+The Judicial Committee shall not take up any question on their own initiative, but shall consider only those matters brought to their attention at the written request of 5 members of the Party, and only those matters that fall under their jurisdiction as defined in the following sub-sections:
+
 1. Take disciplinary actions against any other party member in accordance with Robert's Rules of Order Newly Revised, except as otherwise provided herein by the Party Constitution and by-laws.
 
 2. Challenges of adopted Party planks believed by a delegate to be in conflict with the Statement of Principles shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
+
+2. Suspension of an officer.
+
+3. A decision of the Executive Board, except that no payment made to a third party shall be recalled once an agreement has been reached with the third party.
+
+4. Conflict between an Party plank and the Statement of Principles.
+
+5. A Judicial Committee decision can be overturned by a three-fourths vote of delegates to a Regular or Special Convention.
 
 ### SECTION 9
 
@@ -361,6 +403,48 @@ The statement of Principles of the Platform affirms the philosophy upon which th
 
 ## ARTICLE IX: Selection and Nomination of Party Officers; Endorsements of Political Candidates
 
+---
+
+# Rules of the Libertarian Party of Idaho
+
+## Convention Special Rules
+
+### RULE 1: Order of Business
+
+The standing order of business for a Regular Convention shall be as follows (those items designated "contingent" will only be taken up if the appropriate subject matter is available for consideration):
+
+1. Call to Order
+
+2. Credentials Report
+
+3. Adoption of Agenda
+
+4. Treasurer's Report
+
+5. Audit Committee Report (contingent)
+
+6. Bylaws and Rules Committee Report (contingent)
+
+7. Election of Officers
+
+8. Election of Region Representatives
+
+9. General Election Candidate comments
+
+10. Platform Committee Report (contingent)
+
+11. Candidate endorsement
+
+12. Resolutions
+
+13. Other business
+
+### RULE 2: Election of Executive Board
+
+#### SECTION 1
+
+Nominations shall be made from the Convention floor by delegates at a convention. All balloting shall be done by county roll-call vote of delegates.
+
 #### SECTION 2
 
 Nominations and elections, in addition to the list of candidates nominated, there shall be an automatic nomination for NONE OF THE ABOVE. When any candidate, including NONE OF THE ABOVE, receives less than 10% of the total vote, that candidate shall be stricken from subsequent ballots.
@@ -373,9 +457,13 @@ When NONE OF THE ABOVE receives a majority vote, all candidates on that ballot s
 
 The platform, exclusive of the Statement of Principles, shall be adopted on a plank-by-plank basis by the delegates in attendance at the 1976 Regular Convention. Each plank must receive approval by a vote of two-thirds of the voting delegates for inclusion in the Platform.
 
+### RULE 3: Platform
+
 ### SECTION 4
 
 The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
+
+### RULE 4: Endorsement of Candidates
 
 #### SECTION 1
 
@@ -410,6 +498,10 @@ Any party member may attend any Regular National Convention as an observer.
 #### SECTION 4
 
 Prior to each duly called national Regular Convention, the Secretary shall certify the delegates and alternates to the national convention at least twenty days prior to the Convention to the national Party Secretary, and offer such proof as the national Executive Committee shall require that the selection of said delegates and alternate delegates was made in compliance with the Constitution of the Libertarian Party of Idaho.
+
+#### SECTION 5
+
+The Chair of the delegation of the Party shall be the highest-ranking Party Officer present as a Delegate. If there is no Party officer present, a majority of the Executive Board shall select an Interim Chair from among their number.
 
 ---
 
