@@ -1,30 +1,30 @@
-# Constitution
+# Bylaws of the Libertarian Party of Idaho
 
 ## ARTICLE I: Name
 
-The name of the corporation shall be the Libertarian Party of Idaho, hereinafter referred to as the "Party."
+The name of this Society shall be the Libertarian Party of Idaho (hereinafter "the Party").
 
-## ARTICLE II: Purposes
+## ARTICLE II: Object
 
-The purpose for which the Party is organized is to implement and give voice to the Statement of Principles of the National Libertarian Party by:
+The Party is organized to implement and give voice to the Statement of Principles of the National Libertarian Party by:
 
-1. Nominating candidates for political offices.
+1. Nominating candidates for political offices;
 
-2. Promoting Libertarian Party activities and party membership.
+2. Promoting Libertarian Party activities and party membership; and
 
 3. Entering into political information activities.
 
 Toward these ends, the Party shall be affiliated with the national Libertarian Party.
 
-## ARTICLE III: Membership
+## ARTICLE III: Members
 
 ### SECTION 1
 
-All dues-paying members of the Libertarian Party of Idaho shall enjoy full rights as stated in this Constitution.
+All dues-paying members of the Party shall enjoy full rights as stated in these Bylaws.
 
 ### SECTION 2
 
-The classes of membership and dues shall be initially determined by the Executive Committee. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at Regular Conventions.
+Classes of membership. The classes of membership and dues shall be initially determined by the Executive Board. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at Regular Conventions.
 
 ### SECTION 3
 
@@ -34,49 +34,49 @@ Honorary Life Membership. Upon the signed recommendation of one member, seconded
 
 ### SECTION 1
 
-The officers of the Party shall be a Chairperson, a Vice-Chairperson, Secretary and Treasurer. Only Party members in good standing shall be eligible to fill these offices. All of these officers shall be elected at a Regular Convention of the Party by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention. If, for any reason, a Regular Convention is not held during an appropriate year, all officers of the party shall be elected at the next available Convention, including, but not limited to, a Delegate Selection Convention.
+Officers and Duties. The officers of the Party shall be a Chair, a Vice-Chair, a Secretary, and a Treasurer. These officers shall perform the duties prescribed by these Bylaws and by the parliamentary authority adopted by the Party. Only Party members in good standing shall be eligible to fill these offices. All of these officers shall be elected at a Regular Convention of the Party by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention.
 
 ### SECTION 2
 
-No offices shall be combined.
+No member shall hold more than one office at a time, and no member shall be eligible to serve three consecutive terms in the same office.
 
 ---
 
-Duties of Officers:
+Duties of the officers:
 
 ### SECTION 3
 
-The Chairperson shall preside at all conventions and at all meetings of the Executive Committee. The Chairperson shall be the chief executive officer of the Party.
+The Chair shall preside at all conventions and at all meetings of the Executive Board. The Chair shall be the chief executive officer of the Party.
 
 ### SECTION 4
 
-The Vice-Chairperson shall act as assistant to the Chairperson, and shall perform the duties of the Chair in the event the Chairperson is, for any reason, unable to perform the duties of that office.
+The Vice-Chair shall act as assistant to the Chair, and shall perform the duties of the Chair in the event the Chair is, for any reason, unable to perform the duties of that office.
 
 ### SECTION 5
 
-The Secretary shall be the recording officer of the Party, and shall provide or make provision for all legal services to the Party, under the direction of the Executive Committee. The Secretary shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
+The Secretary shall be the recording and corresponding officer of the Party, and shall provide or make provision for all legal services to the Party, under the direction of the Executive Board. The Secretary shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
 
 ### SECTION 6
 
-The Treasurer shall receive, expend, and account for the funds of the Party under the supervision and direction of the Chairperson and the Executive Committee. The records for such funds shall be maintained in accordance with generally accepted accounting principles and the Treasurer shall make available to the Executive Committee quarterly financial reports, such reports to include a Statement of Operations and a Balance Sheet.
+The Treasurer shall receive, expend, and account for the funds of the Party under the supervision and direction of the Chair and the Executive Board. The records for such funds shall be maintained in accordance with generally accepted accounting principles and the Treasurer shall make available to the Executive Board quarterly financial reports, such reports to include a Statement of Operations and a Balance Sheet.
 
 ### SECTION 7
 
-An officer may be suspended, that is, denied the authority to perform his specific functions, by a two-thirds majority vote of the State Central committee. The office of a suspended officer shall be declared vacant unless the suspended officer appeals his suspension. The State Central Committee shall appoint new officers if vacancies or suspensions occur, such officers to complete the term of the office vacated, or the time during which the suspension is in effect, as applicable. In the absence of a functioning State Central Committee, the Executive Committee shall appoint the new officer(s).
+In the absence of a functioning State Central Committee, the Executive Board shall fill any vacancy on the Executive Board.
 
 ### SECTION 8
 
-Upon being suspended or vacating an office, an officer must render to the Executive Committee within three days all materials concerning the Party he has in his possession.
+Upon being suspended or vacating an office, an officer must render to the Executive Board within three days all materials concerning the Party he has in his possession.
 
-## ARTICLE V: Conventions
+## ARTICLE V: Meetings
 
 ### SECTION 1
 
-Regular Conventions shall be held in each even-numbered year, in the final two weeks of the month of June, or in accordance with the Election Laws of the State of Idaho. All Party business and affairs required herein shall be transacted. Such conventions shall be held at the time and place selected by the Executive Committee.
+Regular Conventions shall be held in each even-numbered year, in the final two weeks of the month of June, or in accordance with the Election Laws of the State of Idaho. All Party business and affairs required herein shall be transacted. Such conventions shall be held at the time and place selected by the Executive Board.
 
 ### SECTION 2
 
-In the event that a national party Regular Convention shall be held within 45 days following the state party Regular Convention, the Executive Committee shall solicit the membership for nominees for delegates to the national convention, and shall submit a preliminary delegate list to the national party no less than 45 days prior to the national convention. Final delegates shall then be selected at the state party Regular Convention.
+In the event that a National Convention shall be held within 45 days following the state party Regular Convention, the Executive Board shall solicit the membership for nominees for delegates to the National Convention, and shall submit a preliminary delegate list to the national party no less than 45 days prior to the national convention. Final delegates shall then be selected at the Party Regular Convention.
 
 ### SECTION 3
 
@@ -84,7 +84,7 @@ Special meetings may be called by the Chair, or by the Executive Board, or upon 
 
 ### SECTION 4
 
-Convention attendees may not vote unless they were a member in good standing of the Libertarian Party of Idaho as of the end of January prior to the convention.
+Convention attendees may not vote unless they were members in good standing of the Party as of the end of January prior to the convention.
 
 ### SECTION 5
 
@@ -94,46 +94,41 @@ Convention participation by any person connected to the location of the Chair th
 
 Ten members of the Party shall constitute a quorum for any Convention or Special Meeting of the Party.
 
-## ARTICLE VI: Executive Committee
+## ARTICLE VI: The Executive Board
 
 ### SECTION 1
 
-The Executive Committee of the Party shall be composed of the following:
-The four elected officers of the Party.
+The officers of the Party and three Regional Representatives shall constitute the Executive Board.
 
 ### SECTION 2
 
-a) Three Regional Chairs elected at the Regular Convention. Each Regional Chair shall represent a specific region of the state, and shall be responsible for organizing a Regional Committee to organize and carry forward the goals of the state party within that region. Regional Chairs must reside in the region they represent, and must be elected by the delegates residing in that region.
-
 Regions shall consist of the following counties:
 
-* Region One shall consist of the following counties: Benewah, Bonner, Boundary, Clearwater, Idaho, Kootenai, Latah, Lewis, Nez Perce, and Shoshone.
+* Region 1: Benewah, Bonner, Boundary, Clearwater, Idaho, Kootenai, Latah, Lewis, Nez Perce, and Shoshone (10).
 
-* Region Two shall consist of the following counties: Ada, Adams, Boise, Canyon, Elmore, Gem, Owyhee, Payette, Valley, and Washington.
+* Region 2: Ada, Adams, Boise, Canyon, Elmore, Gem, Owyhee, Payette, Valley, and Washington (10).
 
-* Region Three shall consist of the following counties: Bannock, Bear Lake, Bingham, Blaine, Bonneville, Butte, Camas, Caribou, Cassia, Clark, Custer, Franklin, Fremont, Gooding, Jefferson, Jerome, Lemhi, Lincoln, Madison, Minidoka, Oneida, Power, Teton, and Twin Falls.
+* Region 3: Bannock, Bear Lake, Bingham, Blaine, Bonneville, Butte, Camas, Caribou, Cassia, Clark, Custer, Franklin, Fremont, Gooding, Jefferson, Jerome, Lemhi, Lincoln, Madison, Minidoka, Oneida, Power, Teton, and Twin Falls (24).
 
 ### SECTION 3
 
-The Executive Committee shall have the control and management of all the affairs, properties, and funds of the Party consistent with this Constitution.
+The Executive Board shall have general supervision of the affairs of the Party between its business meetings, shall fix the hour and place of meetings, shall make recommendations to the Party, and shall perform such other duties as are specified in these Bylaws.
 
 ### SECTION 4
 
-The Executive Committee shall meet in the manner, time, and places as prescribed by the by-laws of the Party.
-
-The Executive Committee shall meet at such times and places as may be determined by action of the Committee, by call of the Chair, or by written request of one-third or more of the members of the Executive Committee.
+The Executive Board shall meet at such times and places as may be determined by action of the Board, by call of the Chair, or by written request of one-third or more of the members of the Board.
 
 ### SECTION 5
 
-The Executive Committee may without meeting together, transact business by mail and/or e-mail, voting a question submitted to them by or with the approval of the Chair. Ten days shall be allowed for the return of votes thereon by mail to the Party Secretary during the period between a Regular Convention and the next general election, and twenty days at all other times. If at the expiration of the applicable period, the majority of the Executive Committee have not returned their votes, the measure being voted on shall be deemed to have failed; in all other cases, a vote is required by the Constitution. The Secretary must preserve all such votes until the next meeting of the Executive Committee, at which meeting the Executive Committee shall order the disposition of the votes.
+The Executive Board may without meeting together, transact business by mail and/or e-mail, voting a question submitted to them by or with the approval of the Chair. Ten days shall be allowed for the return of votes thereon by mail to the Party Secretary during the period between a Regular Convention and the next general election, and twenty days at all other times. If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed; in all other cases, a vote is required. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
 
 ### SECTION 6
 
-To afford all Committee members the ability to participate in meetings, meetings shall be conducted at a location with technological services available. A "speakerphone" and a telephone connection capable of conference calling shall be the minimum facility requirement. Alternative methods, such as those using the internet, must receive unanimous approval of those committee members that are responsible for providing equipment at the primary and remote locations. The committee and general members attending an Executive meeting shall be individually and severally responsible for any facilities, equipment, transportation, internet, telephone company, and/or other charges required for their participation at or from a particular meeting location.
+To afford all Board members the ability to participate in meetings, meetings shall be conducted at a location with technological services available. A "speakerphone" and a telephone connection capable of conference calling shall be the minimum facility requirement. Alternative methods, such as those using the Internet, must receive unanimous approval of those committee members that are responsible for providing equipment at the primary and remote locations. The Board and general members attending an Executive Board meeting shall be individually and severally responsible for any facilities, equipment, transportation, Internet, telephone company, and/or other charges required for their participation at or from a particular meeting location.
 
 ### SECTION 7
 
-Provisions shall be made for observation of the meeting by the general membership at the primary and at any, and all, remote locations.
+Provisions shall be made for observation of Board meetings by the general membership at the primary and at any, and all, remote locations.
 
 ## ARTICLE VII: Central Committees
 
@@ -143,11 +138,11 @@ There shall be a suite of Central Committees as defined in this Article only whe
 
 ### SECTION 2
 
-The Constitution and By-Laws of the Libertarian Party of Idaho are also the governing documents of the State Central Committee. The four officers of the Party (Chairperson, Vice-Chairperson, Secretary and Treasurer) are the officers of the State Central Committee.
+The Bylaws of the Party are also the governing documents of the State Central Committee. The four officers of the Party (Chair, Vice-Chair, Secretary and Treasurer) are the officers of the State Central Committee.
 
 ### SECTION 3
 
-The State Central Committee shall consist of the four officers of the party, all legislative district chairmen, all county central committee chairmen, and all state committeepersons selected by the county central committees. Each of the above members of the state central committee shall be entitled to vote at all meetings of the state central committee and the State Conventions as delegates.
+The State Central Committee shall in addition consist of all legislative district chairmen, all county central committee chairmen, and all state committeepersons selected by the county central committees. Each of the above members of the state central committee shall be entitled to vote at all meetings of the state central committee and the State Conventions as delegates.
 
 ### SECTION 4
 
@@ -173,19 +168,19 @@ If a legislative district central committee does not exist, the precinct committ
 
 The filling of vacancies in the slate of candidates shall be by the County Central Committees, Legislative District Central Committees, and State Central Committee as provided by Idaho law.
 
-## ARTICLE VIII: Committees
+## ARTICLE VIII: Other Committees
 
 ### SECTION 1
 
-The Finance Chairperson shall have the responsibility of increasing the treasury of the Party, and for such other duties as may be assigned by the Executive Committee. With the help and cooperation of the Executive Committee, the Finance Chairperson shall select a working finance committee to assist in the fulfillment of such Chairperson's duties.
+The Finance Committee shall be composed of the Treasurer and four other Party members appointed by the Chair promptly after each Regular Convention. It shall be the duty of this committee to prepare a budget for the fiscal year beginning the first day of July, and to submit it to the Party at its regular meeting in June. The Finance Committee may from time to time submit amendments to the budget for the current fiscal year, which may be adopted by a majority vote.
 
 ### SECTION 2
 
-The Membership Chairperson shall have the responsibility of increasing the membership of the Party, and for such other duties as may be assigned by the Executive Committee. With the help and cooperation of the Executive Committee, the Membership Chairperson shall select a working membership committee to assist in the fulfillment of such Chairperson's duties.
+The Membership Committee shall have the responsibility for increasing the membership of the Party, and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Membership Chair shall select a working committee.
 
 ### SECTION 3
 
-The Publicity Chairperson shall have the responsibility for publicizing the Party and its activities and for such other duties as may be assigned by the Executive Committee. With the help and cooperation of the Executive Committee, the Publicity Chairperson shall select a working publicity committee to assist in the fulfillment of such Chairperson's duties.
+The Publicity Committee shall have the responsibility for publicizing the Party and its activities and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Publicity Chair shall select a working committee.
 
 ### SECTION 4
 
@@ -193,15 +188,11 @@ A Program Committee of five Party members shall be appointed by the Chair prompt
 
 ### SECTION 5
 
-There shall be a Platform Committee, the duties of which shall be:
-
-a) To formulate a state platform dealing with issues of importance in the State of Idaho.
-
-b) Shall consist of 7 party members selected as follows: 4 appointed by the Executive Committee; one from each region to be selected in caucus by the County Central Committee Chairmen of that region.
+The Platform Committee shall formulate a state platform dealing with issues of importance and relevance in the State of Idaho. This committee shall consist of 7 Party members selected as follows: 4 appointed by the Executive Board and one from each region to be selected in caucus by the County Central Committee Chairmen of that region. If the Central Committee structure is not in place, the Executive Board shall select all member of this Committee.
 
 ### SECTION 6
 
-There shall be a Constitution, By-Laws and Rules Committee consisting of seven party members appointed by the Executive Committee.
+There shall be a Bylaws and Rules Committee consisting of seven Party members appointed by the Executive Board. This Committee shall consider amendments to the governing documents of the Party, and shall recommend such amendments to a Regular or Special Convention.
 
 ### SECTION 7
 
@@ -209,11 +200,11 @@ An Audit Committee of three people, at least one of whom must be a Party member,
 
 ### SECTION 8
 
-There shall be a Judicial Committee appointed by and exclusive of the Executive Committee for the same term as the Executive Committee and shall be composed of nine members: any five will constitute a quorum.
+A Judicial Committee shall be appointed by the Executive Board for the same term as the Executive Board, and shall be composed of nine members, none of whom may be members of the Executive Board; any five will constitute a quorum. This Committee may fill vacancies in this Committee itself. No matter may be taken up by the Judicial Committee until it has adopted rules for their own procedures, which must be approved by the Central Committee.
 
 The Judicial Committee shall not take up any question on their own initiative, but shall consider only those matters brought to their attention at the written request of 5 members of the Party, and only those matters that fall under their jurisdiction as defined in the following sub-sections:
 
-1. Take disciplinary actions against any other party member in accordance with Robert's Rules of Order Newly Revised, except as otherwise provided herein by the Party Constitution and by-laws.
+1. Take disciplinary action against any party member in accordance with Robert's Rules of Order Newly Revised, except as otherwise provided herein by the Party Bylaws.
 
 2. Suspension of an officer.
 
@@ -225,17 +216,17 @@ The Judicial Committee shall not take up any question on their own initiative, b
 
 ### SECTION 9
 
-The Chair shall have the power to form other committees by choice, or by the direction of the Executive Committee, and appoint committee directors.
+Such other committees, standing or special, may be established by the Party as it shall from time to time deem necessary to carry on its work. Their members shall be appointed by the Chair unless this rule is suspended by a two-thirds vote before their appointment. The Chair shall be ex officio a member of all committees except the Nominating Committee, the Judicial Committee, and any disciplinary committee.
 
 ## ARTICLE IX: Finances and Accounting
 
 ### SECTION 1
 
-The fiscal term of the Party shall begin the first day of July 1 and end the 30th day of June.
+The fiscal term of the Party shall begin the first day of July and end the 30th day of June.
 
 ### SECTION 2
 
-The Executive Committee shall cause an efficient double entry system of accounts to be installed and maintained.
+The Executive Board shall cause an efficient double entry system of accounts to be installed and maintained.
 
 ### SECTION 3
 
@@ -243,15 +234,15 @@ All disbursements exceeding $25.00 shall be made solely by check.
 
 ### SECTION 4
 
-The Executive Committee shall have the power to designate the depository of all funds of the Party, and shall appoint such officers and employees as its judgment may deem advisable to deposit and withdraw funds from said depository.
+The Executive Board shall have the power to designate the depository of all funds of the Party, and shall appoint such officers and employees as its judgment may deem advisable to deposit and withdraw funds from said depository.
 
 ## ARTICLE X: Parliamentary Authority
 
-Robert's Rules of Order Newly Revised shall be the parliamentary authority for all matters of procedure not specifically covered by the Constitution, By-Laws or Rules of the Party.
+The rules contained in the current edition of Robert's Rules of Order Newly Revised (RONR) shall govern the Party in all cases to which they are applicable and in which they are not inconsistent with these Bylaws and any standing rules and special rules of order the Party may adopt.
 
-## ARTICLE XI: Amendment to the By-Laws
+## ARTICLE XI: Amendment of Bylaws
 
-Amendments to the By-Laws shall be in accordance with the Constitution.
+These Bylaws may be amended at any regular meeting of the Party by a two-thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting or in the Call to the next meeting.
 
 ---
 
@@ -297,15 +288,15 @@ Nominations shall be made from the Convention floor by delegates at a convention
 
 #### SECTION 2
 
-Nominations and elections, in addition to the list of candidates nominated, there shall be an automatic nomination for NONE OF THE ABOVE. When any candidate, including NONE OF THE ABOVE, receives less than 10% of the total vote, that candidate shall be stricken from subsequent ballots.
+In addition to the list of candidates nominated, there shall be an automatic nomination for NONE OF THE ABOVE (NOTA). When any candidate, including NOTA, receives less than 10% of the total vote, that candidate shall be stricken from subsequent ballots.
 
 #### SECTION 3
 
-When NONE OF THE ABOVE receives a majority vote, all candidates on that ballot shall become ineligible for re-nomination for the same office at the same convention. The next order of business shall be the re-opening of nominations from the floor for the office, and election shall proceed according to Article IX of this constitution until such time as the vacancy has been filled or the conventions elects by a two-thirds vote not to select a candidate.
+When NOTA receives a majority vote, all candidates on that ballot shall become ineligible for re-nomination for the same office at the same convention. The next order of business shall be the re-opening of nominations from the floor for the office, and election shall proceed as above until such time as the vacancy has been filled or the conventions elects by a two-thirds vote not to select a candidate.
 
 ### RULE 3: Platform
 
-The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
+The platform may be amended at each Regular Convention by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
 
 ### RULE 4: Endorsement of Candidates
 
@@ -323,7 +314,7 @@ Endorsements or nominations shall be made from the Convention floor by delegates
 
 #### SECTION 4
 
-The Libertarian Party of Idaho shall not support the candidacy of any candidate for office opposing a Libertarian candidate endorsed by a convention; nor shall it endorse any candidate for President or Vice-President other than the candidate selected by the delegates at the national party convention.
+The Party shall not support the candidacy of any candidate for office opposing a Libertarian candidate endorsed by a convention; nor shall it endorse any candidate for President or Vice-President other than the candidate selected by the delegates at the national party convention.
 
 ### RULE 5: Selection of Delegates to the National Convention
 
@@ -333,15 +324,15 @@ The number of delegates shall be those allowed by the national Party and at leas
 
 #### SECTION 2
 
-Delegates and alternates to the national Party Regular convention shall be nominated from the floor of the state Delegate Selection Convention. The delegate nominees receiving the highest vote shall go to the national Party convention as delegates. Any Idaho Party member in good standing shall be eligible to be an alternate to the national Party Regular Convention.
+Delegates and alternates to the National Party Regular Convention shall be nominated from the floor of the state Delegate Selection Convention. The delegate nominees receiving the highest vote shall go to the national Party convention as delegates. Any Party member in good standing shall be eligible to be an alternate to the National Party Regular Convention.
 
 #### SECTION 3
 
-Any party member may attend any Regular National Convention as an observer.
+Any Party member may attend any Regular National Convention as an observer.
 
 #### SECTION 4
 
-Prior to each duly called national Regular Convention, the Secretary shall certify the delegates and alternates to the national convention at least twenty days prior to the Convention to the national Party Secretary, and offer such proof as the national Executive Committee shall require that the selection of said delegates and alternate delegates was made in compliance with the Constitution of the Libertarian Party of Idaho.
+Prior to each duly called national Regular Convention, the Secretary shall certify the delegates and alternates to the National Convention at least twenty days prior to the Convention to the national Party Secretary, and offer such proof as the National Party shall require that the selection of said delegates and alternate delegates was made in compliance with the Bylaws of the Libertarian Party of Idaho.
 
 #### SECTION 5
 
