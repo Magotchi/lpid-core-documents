@@ -1,14 +1,14 @@
 # Constitution
 
-## ARTICLE I: NAME
+## ARTICLE I: Name
 
 The name of the corporation shall be the Libertarian Party of Idaho, hereinafter referred to as the "Party."
 
-## ARTICLE II: PERIOD OF DURATION
+## ARTICLE II: Period of Duration
 
 The duration of the Party shall be perpetual.
 
-## ARTICLE III: PURPOSES
+## ARTICLE III: Purposes
 
 The purpose for which the Party is organized is to implement and give voice to the Statement of Principles of the National Libertarian Party by:
 
@@ -18,7 +18,7 @@ b. Promoting Libertarian Party activities and party membership.
 
 c. Entering into political information activities.
 
-## ARTICLE IV: OFFICERS
+## ARTICLE IV: Officers
 
 ### SECTION 1
 
@@ -60,7 +60,7 @@ Except as otherwise provided herein, the officers of the Party shall have such p
 
 Upon being suspended or vacating an office, an officer must render to the Executive Committee within three days all materials concerning the Party he has in his possession.
 
-## ARTICLE V: EXECUTIVE COMMITTEE
+## ARTICLE V: Executive Committee
 
 ### SECTION 1
 
@@ -101,7 +101,7 @@ All meetings of the Executive Committee shall be open to all members of the Part
 
 An officer may be suspended, that is, denied the authority to perform his specific functions, by a two-thirds majority vote of the State Central committee. The office of a suspended officer shall be declared vacant unless the suspended officer appeals his suspension. The State Central Committee shall appoint new officers if vacancies or suspensions occur, such officers to complete the term of the office vacated, or the time during which the suspension is in effect, as applicable. In the absence of a functioning State Central Committee, the Executive Committee shall appoint the new officer(s).
 
-## ARTICLE VI: CONVENTIONS
+## ARTICLE VI: Conventions
 
 ### SECTION 1
 
@@ -119,7 +119,7 @@ All Party Conventions may be attended by all members of the Party.
 
 Convention attendees may not vote unless they were a member in good standing of the Libertarian Party of Idaho as of the end of January prior to the convention.
 
-## ARTICLE VII: COMMITTEES
+## ARTICLE VII: Committees
 
 All committees shall be appointed as needed until the Party membership increases to 70 members, at which time the following committees will become committees for each Regular Convention and a Judicial Committee shall be a standing committee.
 
@@ -139,7 +139,7 @@ There shall be a Constitution, By-Laws and Rules Committee consisting of seven p
 
 There shall be a Judicial Committee appointed by and exclusive of the Executive Committee for the same term as the Executive Committee and shall be composed of nine members: any five will constitute a quorum.
 
-## ARTICLE VIII: PLATFORM
+## ARTICLE VIII: Platform
 
 ### SECTION 1
 
@@ -157,7 +157,7 @@ The platform, exclusive of the Statement of Principles, shall be adopted on a pl
 
 The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
 
-## ARTICLE IX: SELECTION AND NOMINATION OF PARTY OFFICERS; ENDORSEMENTS OF POLITICAL CANDIDATES
+## ARTICLE IX: Selection and Nomination of Party Officers; Endorsements of Political Candidates
 
 ### SECTION 1
 
@@ -183,11 +183,11 @@ When NONE OF THE ABOVE receives a majority vote, all candidates on that ballot s
 
 The Libertarian Party of Idaho shall not support the candidacy of any candidate for office opposing a Libertarian candidate endorsed by a convention; nor shall it endorse any candidate for President or Vice-President other than the candidate selected by the delegates at the national party convention.
 
-## ARTICLE X: MEMBERSHIP
+## ARTICLE X: Membership
 
 All dues-paying members of the Libertarian Party of Idaho shall enjoy full rights as stated in this Constitution. The classes of membership and dues shall be initially determined by the Executive Committee. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at Regular Conventions.
 
-## ARTICLE XI: JUDICIAL COMMITTEE
+## ARTICLE XI: Judicial Committee
 
 ### SECTION 1
 
@@ -197,7 +197,7 @@ a) Take disciplinary actions against any other party member in accordance with R
 
 b) Challenges of adopted Party planks believed by a delegate to be in conflict with the Statement of Principles shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
 
-## ARTICLE XII: BY-LAWS
+## ARTICLE XII: By-Laws
 
 ### SECTION 1
 
@@ -207,11 +207,11 @@ The By-Laws of the Party shall be initially approved by a majority vote of the m
 
 The By-Laws of the Party may be amended by a majority vote of the delegates at any Regular Convention of the Party, or by a vote of three-fourths of the State Central Committee at any other time.
 
-## ARTICLE XIII: CONVENTION GOVERNMENT
+## ARTICLE XIII: Convention Government
 
 The convention of the Party shall be governed by the applicable Convention Rules of the National Party unless otherwise amended by the convention. Matters not specifically addressed by convention rules will be governed by Robert's Rules of Order Newly Revised.
 
-## ARTICLE XIV: CONSTITUTION
+## ARTICLE XIV: Constitution
 
 ### SECTION 1
 
@@ -221,7 +221,7 @@ This constitution shall be initially adopted by a three-fourths vote of the memb
 
 This Constitution may be amended by a vote of a majority of members in attendance at the first Regular Convention and, thereafter, by a two-thirds vote of the delegates at any subsequent Convention.
 
-## ARTICLE XV: SELECTION OF DELEGATES TO THE NATIONAL CONVENTION
+## ARTICLE XV: Selection of Delegates to the National Convention
 
 ### SECTION 1
 
@@ -239,7 +239,7 @@ Any party member may attend any Regular National Convention as an observer.
 
 Prior to each duly called national Regular Convention, the Secretary shall certify the delegates and alternates to the national convention at least twenty days prior to the Convention to the national Party Secretary, and offer such proof as the national Executive Committee shall require that the selection of said delegates and alternate delegates was made in compliance with the Constitution of the Libertarian Party of Idaho.
 
-## ARTICLE XVI: CENTRAL COMMITTEES
+## ARTICLE XVI: Central Committees
 
 ### SECTION 1
 
@@ -277,7 +277,7 @@ The filling of vacancies in the slate of candidates shall be by the County Centr
 
 # Bylaws
 
-## ARTICLE I: DUTIES OF OFFICERS
+## ARTICLE I: Duties of Officers
 
 ### SECTION 1
 
@@ -295,7 +295,7 @@ The Secretary shall keep an accurate and complete record of the proceedings of a
 
 The Treasurer, or the Treasurer's designated agent, shall receive and give receipts for all moneys paid to the Party and shall deposit same in such bank or banks as have been designated by the Executive Committee. The Treasurer shall present a written report in accordance with the Constitution or at any other time when requested to do so by the Executive Committee. The Treasurer shall file reports required by any government agency in the format and on the timetable specified by the agency. The Treasurer shall, at the direction of the Executive Committee, present the financial records of the Party for audit by such auditors as the Executive Committee shall specify. Expenditures of funds shall be made only in accordance with regulations established by the Executive Committee. Not later than January 5th of each year the Treasurer shall send a dues notice to each member of the Party (if applicable).
 
-## ARTICLE II: EXECUTIVE COMMITTEE
+## ARTICLE II: Executive Committee
 
 ### SECTION 1
 
@@ -329,7 +329,7 @@ The Chairman, or his designate, shall specify the primary meeting location and s
 
 Provisions shall be made for observation of the meeting by the general membership at the primary and at any, and all, remote locations.
 
-## ARTICLE III: OTHER COMMITTEES
+## ARTICLE III: Other Committees
 
 ### SECTION 1
 
@@ -351,7 +351,7 @@ The Finance Chairperson, Membership Chairperson, and Publicity Chairperson, and 
 
 The Chair shall have the power to form other committees by choice, or by the direction of the Executive Committee, and appoint committee directors.
 
-## ARTICLE IV: CONVENTION COMMITTEES
+## ARTICLE IV: Convention Committees
 
 ### SECTION 1
 
@@ -377,7 +377,7 @@ A member must be present in committee, or in live communication with the committ
 
 More than one-half of the membership of each committee shall constitute a quorum.
 
-## ARTICLE V: FINANCES AND ACCOUNTING
+## ARTICLE V: Finances and Accounting
 
 ### SECTION 1
 
@@ -395,14 +395,14 @@ All disbursements exceeding $25.00 shall be made solely by check.
 
 The Executive Committee shall have the power to designate the depository of all funds of the Party, and shall appoint such officers and employees as its judgment may deem advisable to deposit and withdraw funds from said depository.
 
-## ARTICLE VI: PARLIAMENTARY AUTHORITY
+## ARTICLE VI: Parliamentary Authority
 
 Robert's Rules of Order Newly Revised shall be the parliamentary authority for all matters of procedure not specifically covered by the Constitution, By-Laws or Rules of the Party.
 
-## ARTICLE VII: AMENDMENT TO THE BY-LAWS
+## ARTICLE VII: Amendment to the By-Laws
 
 Amendments to the By-Laws shall be in accordance with the Constitution.
 
-## ARTICLE VIII: REGULAR CONVENTION RULES
+## ARTICLE VIII: Regular Convention Rules
 
 The regular Convention Rules shall be in accordance with the Constitution.
