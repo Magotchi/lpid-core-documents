@@ -102,7 +102,7 @@ Quorum for Regular Conventions shall be more than one half of the eligible membe
 
 ### SECTION 1
 
-The officers of the Party and three Regional Representatives shall constitute the Executive Board.
+The Executive Board of the Party shall be composed of the following: The elected officers of the Party. Regional Chairs for each region, elected at the Regular Convention by each Region's caucus. Each Regional Chair shall represent a specific region of the state and shall be responsible for appointing a Regional Committee to organize and carry forward the goals of the state party within that region. Regional Chairs must reside in the region they represent and must be elected at the Region's caucus by the delegates residing in that region.
 
 ### SECTION 2
 
