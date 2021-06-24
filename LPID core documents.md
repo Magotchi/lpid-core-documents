@@ -72,7 +72,7 @@ Upon being suspended or vacating an office, an officer must render to the Execut
 
 ### SECTION 1
 
-Regular Conventions shall be held each year, in the final two weeks of the month of April, or in accordance with the Election Laws of the State of Idaho. All Party business and affairs required herein shall be transacted. Such conventions shall be held at the time and place selected by the Executive Board.
+Regular Conventions shall be held each year, in the final two weeks of the month of April, or in accordance with the Election Laws of the State of Idaho. All Party business and affairs required herein shall be transacted. The regular convention location shall rotate between regions, when meeting in-person. Such conventions shall be held at the time and place selected by the Executive Board.
 
 ### SECTION 2
 
