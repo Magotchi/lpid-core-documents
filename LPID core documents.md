@@ -94,6 +94,10 @@ Convention participation by any person connected to the location of the Chair th
 
 Ten members of the Party shall constitute a quorum for any Convention or Special Meeting of the Party.
 
+### SECTION 7
+
+Quorum for Regular Conventions shall be more than one half of the eligible members in attendance according to the Credentials Report at the start of that Regular Convention. Quorum shall be established by counting all physical and remote delegates credentialed at the time of call to order.
+
 ## ARTICLE VI: The Executive Board
 
 ### SECTION 1
