@@ -32,6 +32,10 @@ Classes of membership. The classes of membership and dues shall be initially det
 
 Honorary Life Membership. Upon the signed recommendation of one member, seconded by another member, and by a three-fourths vote by ballot at the annual meeting, honorary life membership may be conferred upon an adult resident of Idaho who shall have rendered notable service to the Party. An honorary member shall have none of the obligations of membership in the Party, but shall be entitled to all of the privileges except those of making motions, of voting, and of holding office.
 
+### SECTION 4
+
+Lifetime Membership. A Bylaws Sustaining Member (BSM) who donates more than or equal to a preset amount within a calendar year, set by the Executive Board in the Operations Manual, shall automatically become a lifetime member. This membership will be contingent upon the person to maintain all qualifications of a member at all times.
+
 ## ARTICLE IV: Officers
 
 ### SECTION 1
