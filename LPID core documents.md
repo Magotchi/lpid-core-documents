@@ -130,7 +130,7 @@ The Executive Board shall meet at such times and places as may be determined by 
 
 ### SECTION 5
 
-The Executive Board may without meeting together, transact business by mail and/or e-mail, voting a question submitted to them by or with the approval of the Chair. Ten days shall be allowed for the return of votes thereon by mail to the Party Secretary during the period between a Regular Convention and the next general election, and twenty days at all other times. If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed; in all other cases, a vote is required. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
+The Executive Board may without meeting together, transact business by e-mail, voting on a question submitted to them by the Chair or co-sponsored by three (3) members of the Executive Board. Ten days shall be allowed for the return of votes thereon by e-mail to the Party Secretary. If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed; in all other cases, a vote is required. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
 
 ### SECTION 6
 
