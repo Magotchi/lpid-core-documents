@@ -222,6 +222,10 @@ The Judicial Committee shall not take up any question on their own initiative, b
 
 ### SECTION 9
 
+Legislative Watch Committee - The purpose of this committee is to review legislative proposals and make recommendations for rejection or support. The Committee's primary purpose is to ensure that the Party's stance on a legislative proposal meets the state and national platform principles. The Committee may consider party member and/or third party organization input. The Committee may also provide technical support in drafting of proposals or bills where appropriate.
+
+### SECTION 10
+
 Such other committees, standing or special, may be established by the Party as it shall from time to time deem necessary to carry on its work. Their members shall be appointed by the Chair unless this rule is suspended by a two-thirds vote before their appointment. The Chair shall be ex officio a member of all committees except the Nominating Committee, the Judicial Committee, and any disciplinary committee.
 
 ## ARTICLE IX: Finances and Accounting
