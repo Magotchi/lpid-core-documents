@@ -34,7 +34,7 @@ Honorary Life Membership. Upon the signed recommendation of one member, seconded
 
 ### SECTION 1
 
-Officers and Duties. The officers of the Party shall be a Chair, a Vice-Chair, a Secretary, and a Treasurer. These officers shall perform the duties prescribed by these Bylaws and by the parliamentary authority adopted by the Party. Only Party members in good standing shall be eligible to fill these offices. All of these officers shall be elected at a Regular Convention of the Party by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention.
+Officers and Duties. The officers of the Party shall be a Chair, a Vice-Chair, a Secretary, and a Treasurer. These officers shall perform the duties prescribed by these Bylaws and by the parliamentary authority adopted by the Party. Only Party members in good standing shall be eligible to fill these offices. The Vice Chair and the Secretary shall be elected at a Regular Convention of the Party on even numbered years, and the Chair and the Treasurer shall be elected at a Regular Convention on odd numbered years by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention occurring on an even numbered year. If, for any reason, a Regular Convention is not held during an appropriate year, all officers of the party shall be elected at the next available Convention, including, but not limited to, a Delegate Selection Convention, or a Regular Convention occurring on an odd numbered year.
 
 ### SECTION 2
 
