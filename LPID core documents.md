@@ -206,7 +206,9 @@ An Audit Committee of three people, at least one of whom must be a Party member,
 
 ### SECTION 8
 
-A Judicial Committee shall be appointed by the Executive Board for the same term as the Executive Board, and shall be composed of nine members, none of whom may be members of the Executive Board; any five will constitute a quorum. This Committee may fill vacancies in this Committee itself. No matter may be taken up by the Judicial Committee until it has adopted rules for their own procedures, which must be approved by the Central Committee.
+A Judicial Committee shall be appointed by the Executive Board yearly and shall be composed of five members; any three will constitute a quorum. This Committee may fill vacancies in this Committee itself. No matter may be taken up by the Judicial Committee until it has adopted rules for their own procedures, which must be approved by the Central Committee.
+
+A member of the Judicial Committee may not serve on the Executive Board. The Judicial Committee may be tasked by the State Central Committee or the Executive Board with examining, reviewing, taking testimony, holding hearings, and resolving or making recommendations for the following: member complaints; member disputes; ambiguities or conflicts within or between the Bylaws, other governing documents, procedures, or practices; disaffiliation of a County Affiliate; calls for censure or removal of an officer; expulsion of a member, and proposing amendments to the Bylaws or other governing documents.
 
 The Judicial Committee shall not take up any question on their own initiative, but shall consider only those matters brought to their attention at the written request of 5 members of the Party, and only those matters that fall under their jurisdiction as defined in the following sub-sections:
 
