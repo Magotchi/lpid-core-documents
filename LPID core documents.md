@@ -22,6 +22,8 @@ Toward these ends, the Party shall be affiliated with the national Libertarian P
 
 All dues-paying members of the Party shall enjoy full rights as stated in these Bylaws.
 
+Dues paid by any member of the party shall secure the membership of that person until that same date the following calendar year, so long as that person remains in good standing with the Party.
+
 ### SECTION 2
 
 Classes of membership. The classes of membership and dues shall be initially determined by the Executive Board. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at Regular Conventions.
