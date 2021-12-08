@@ -54,37 +54,41 @@ Lifetime Membership: A Bylaws Sustaining Member (BSM) who donates more than or e
 
 The officers of the Party shall be a Chair, a Vice-Chair, Secretary and Treasurer. Only Party members in good standing shall be eligible to fill these offices. The Vice Chair and the Secretary shall be elected at a Regular Convention of the Party on even numbered years and the Chair and the Treasurer Shall be elected at a Regular Convention on odd numbered years by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention occurring on an even numbered year. If, for any reason, a Regular Convention is not held during an appropriate year, all officers of the party shall be elected at the next available Convention, including, but not limited to, a Delegate Selection Convention, or a Regular Convention occurring on an odd numbered year.
 
+### Section 2
+
+No offices shall be combined.
+
 ---
 
 Duties of the officers:
 
-### Section 2
+### Section 3
 
 The chair shall preside at all conventions and at all meetings of the Executive Board. The chair shall be the chief executive officer of the Party.
 
-### Section 3
+### Section 4
 
 The Vice-chair shall act as assistant to the chair, and shall perform the duties of the Chair in the event the chair is, for any reason, unable to perform the duties of that office.
 
-### Section 4
+### Section 5
 
 The Secretary shall be the recording and corresponding officer of the Party, and shall provide or make provision for all legal services to the Party, under the direction of the Executive Board. The Secretary shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
 
-### Section 5
+### Section 6
 
 The Treasurer shall receive, expend, and account for the funds of the Party under the supervision and direction of the chair and the Executive Board. The records for such funds shall be maintained in accordance with generally accepted accounting principles and the Treasurer shall make available to the Executive Board quarterly financial reports, such reports to include a Statement of Operations and a Balance Sheet.
 
 ---
 
-### Section 6
+### Section 7
 
 Upon being suspended or vacating an office, an officer must render to the Executive Board within three days all materials concerning the Party he has in his possession.
 
-### Section 7
+### Section 8
 
 All meetings of the Executive Board shall be open to all members of the Party. Discussion from non-committee members shall be entertained only by majority vote of the Executive Board.
 
-### Section 8
+### Section 9
 
 An officer may be suspended, that is, denied the authority to perform his specific functions, by a two-thirds vote of the State Central committee. The office of a suspended officer shall be declared vacant unless the suspended officer appeals his suspension. The State Central Committee shall appoint new officers if vacancies or suspensions occur, such officers to complete the term of the office vacated, or the time during which the suspension is in effect, as applicable. In the absence of a functioning State Central Committee, the Executive Board shall appoint the new officer(s).
 
@@ -130,7 +134,7 @@ The Executive Board shall meet at such times and places as may be determined by 
 
 The Executive Board may, without meeting together, transact business by email, voting on a question submitted to them by the Chair or co-sponsored by three (3) members of the Executive Board. Ten days shall be allowed for the return of votes thereon by e-mail to the Party Secretary.
 
-If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed; in all other cases, a vote is required by the Constitution. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
+If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
 
 ### Section 4
 
@@ -176,15 +180,15 @@ The filling of vacancies in the slate of candidates shall be by the County Centr
 
 ## ARTICLE VIII Other Committees
 
-### Section 1
+### Section 1 - Financial Oversight Committee
 
 The Finance chair shall have the responsibility of increasing the treasury of the Party, and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Finance chair shall select a working finance committee to assist in the fulfillment of such chair's duties.
 
-### Section 2
+### Section 2 - Membership Committee
 
 The Membership chair shall have the responsibility of increasing the membership of the Party, and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Membership chair shall select a working membership committee to assist in the fulfillment of such chair's duties.
 
-### Section 3
+### Section 3 - Platform Committee
 
 The Party shall adopt the platform at its Regular Convention in 1976. The platform shall not be inconsistent with the Statement of Principles adopted by the national party. The platform shall include a Statement of Principles and proposals in the form of planks.
 
@@ -194,11 +198,11 @@ The platform, exclusive of the Statement of Principles, shall be adopted on a pl
 
 The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
 
-### Section 4
+### Section 4 - Bylaws and Rules Committee
 
 There shall be a Bylaws and Rules Committee consisting of seven party members appointed by the Executive Board.
 
-### Section 5
+### Section 5 - Judicial Committee
 
 A Judicial Committee appointed by the Executive Board yearly and shall be composed of five members: any three will constitute a quorum.
 
@@ -216,13 +220,13 @@ At such time that the Judicial Committee becomes established according to the re
 
 - b) Challenges of adopted Party planks believed by a delegate to be in conflict with the Statement of Principles shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
 
-### Section 6
+### Section 6 - Publicity Committee
 
 The Publicity chair shall have the responsibility for publicizing the Party and its activities and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Publicity chair shall select a working publicity committee to assist in the fulfillment of such chair's duties.
 
-### Section 7
+### Section 7 - Legislative Watch Committee
 
-Legislative Watch Committee - The purpose of this committee is to review legislative proposals and make recommendations for rejection or support. The Committee's primary purpose is to ensure that the Party's stance on a legislative proposal meets the state and national platform principles. The Committee may consider party member and/or third party organization input. The Committee may also provide technical support in drafting of proposals or bills where appropriate.
+The purpose of this committee is to review legislative proposals and make recommendations for rejection or support. The Committee's primary purpose is to ensure that the Party's stance on a legislative proposal meets the state and national platform principles. The Committee may consider party member and/or third party organization input. The Committee may also provide technical support in drafting of proposals or bills where appropriate.
 
 ### Section 8
 
