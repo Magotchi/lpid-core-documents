@@ -38,7 +38,7 @@ Bylaw Sustaining Member (BSM) is defined as a person who:
 
 ### Section 3
 
-Classes of membership. The classes of membership and dues shall be initially determined by the Executive Board. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at Regular Conventions.
+Classes of membership. The classes of membership and dues shall be initially determined by the Executive Board. Subsequent changes in classes and dues are subject to a majority vote of all delegates present and voting at a Regular Conventions.
 
 ### Section 4
 
@@ -46,7 +46,7 @@ Dues paid by any member of the party shall secure the membership of that person 
 
 ### Section 5
 
-Lifetime Membership: A Bylaws Sustaining Member (BSM) who donates more than or equal to a preset amount within a calendar year, set by the Executive Board in the Operations Manual, shall automatically become a lifetime member. This membership will be contingent upon the person to maintain all qualifications of a Bylaws Sustaining Member at all times.
+Lifetime Membership: A Bylaws Sustaining Member (BSM) who donates more than or equal to a preset amount within a calendar year, set by the Executive Board, shall automatically become a lifetime member. This membership will be contingent upon the person to maintain all qualifications of a Bylaws Sustaining Member at all times.
 
 ## ARTICLE IV Officers
 
@@ -190,9 +190,9 @@ The Membership chair shall have the responsibility of increasing the membership 
 
 ### Section 3 - Platform Committee
 
-The Party shall adopt the platform at its Regular Convention in 1976. The platform shall not be inconsistent with the Statement of Principles adopted by the national party. The platform shall include a Statement of Principles and proposals in the form of planks.
-
 The statement of Principles of the Platform affirms the philosophy upon which the Libertarian Party is founded, by which it shall be sustained, and through which Liberty shall prevail.
+
+The Party shall adopt the platform at its Regular Convention in 1976. The platform shall not be inconsistent with the Statement of Principles adopted by the national party. The platform shall include a Statement of Principles and proposals in the form of planks.
 
 The platform, exclusive of the Statement of Principles, shall be adopted on a plank-by-plank basis by the delegates in attendance at the 1976 Regular Convention. Each plank must receive approval by a vote of two-thirds of the voting delegates for inclusion in the Platform.
 
@@ -204,7 +204,7 @@ There shall be a Bylaws and Rules Committee consisting of seven party members ap
 
 ### Section 5 - Judicial Committee
 
-A Judicial Committee appointed by the Executive Board yearly and shall be composed of five members: any three will constitute a quorum.
+A Judicial Committee shall be composed of five members: any three will constitute a quorum.
 
 Three of the Judicial Committee members shall be elected at a Regular Convention, by the body, in the even numbered years, and two of the Judicial Committee members shall be elected at a Regular Convention, by the body, in the odd numbered years.
 
@@ -212,7 +212,19 @@ If the Judicial Committee members fail to be elected in a given year, they shall
 
 If the Judicial Committee has a vacancy the remaining members of the Judicial Committee shall have authority to appoint an acting Judicial Committee member until such time, either by special convention or regular convention, that the seat can be filled; within 90 days of vacancy but not sooner than 30 days.
 
-A member of the Judicial Committee may not serve on the Executive Board. The Judicial Committee may be tasked by the State Central Committee or the Executive Board with examining, reviewing, taking testimony, holding hearings, and resolving or making recommendations for the following: member complaints; member disputes; ambiguities or conflicts within or between the Bylaws or other governing documents, procedures, or practices; disaffiliation of a County Affiliate; calls for censure or removal of an officer; expulsion of a member, and proposing amendments to the Bylaws or other governing documents.
+A member of the Judicial Committee may not serve on the Executive Board. The Judicial Committee may be tasked by the State Central Committee or the Executive Board with examining, reviewing, taking testimony, holding hearings, and resolving or making recommendations for the following: member complaints;
+
+* A. member disputes;
+
+* B. ambiguities or conflicts within or between the Bylaws or other governing documents, procedures, or practices;
+
+* C. disaffiliation of a County Affiliate;
+
+* D. calls for censure or removal of an officer;
+
+* E. expulsion of a member;
+
+* F. and proposing amendments to the Bylaws or other governing documents
 
 At such time that the Judicial Committee becomes established according to the requirements of these Bylaws, it shall function as follows:
 
