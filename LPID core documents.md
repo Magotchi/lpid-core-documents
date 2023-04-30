@@ -346,7 +346,7 @@ No candidate may be endorsed who is ineligible by law to serve in the office whi
 
 ### Section 3
 
-Endorsements or nominations shall be made from the Convention floor by delegates at a convention. All balloting shall be done by county roll-call vote of delegates.
+Endorsements or nominations shall be made from the Convention floor by delegates at a convention.
 
 ### Section 4
 
