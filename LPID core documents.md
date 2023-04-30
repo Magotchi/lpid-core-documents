@@ -292,27 +292,33 @@ The standing order of business for a Regular Convention shall be as follows (tho
 
 2. Credentials Report
 
-3. Adoption of Agenda
+3. Amendments to Convention Special Rules of Order
 
-4. Treasurer's Report
+4. Adoption of Agenda
 
-5. Audit Committee Report (contingent)
+5. Treasurer's Report
 
-6. Bylaws and Rules Committee Report (contingent)
+6. Audit Committee Report (contingent)
 
-7. Election of Officers
+7. Bylaws and Rules Committee Report (contingent)
 
-8. Election of Region Representatives
+8. General Election Candidate Comments
 
-9. General Election Candidate comments
+9. Officer Candidate Comments
 
-10. Platform Committee Report (contingent)
+10. Election of Officers
 
-11. Candidate endorsement
+11. Recess for Election of Region Chairs by Caucus
 
-12. Resolutions
+12. Election of Delegates to National Convention (contingent)
 
-13. Other business
+13. Platform Committee Report (contingent)
+
+14. Candidate endorsement
+
+15. Resolutions
+
+16. Other business
 
 ## RULE 2: Election of Executive Board
 
