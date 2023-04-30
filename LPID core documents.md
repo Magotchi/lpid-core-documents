@@ -224,7 +224,7 @@ Three of the Judicial Committee members shall be elected at a Regular Convention
 
 If the Judicial Committee members fail to be elected in a given year, they shall be elected at the next Regular Convention, being made separate and distinct from the even or odd members normally elected in the current year, so that at the next year's Regular Convention it will be clear which Judicial Committee members are standing for election.
 
-If the Judicial Committee has a vacancy the remaining members of the Judicial Committee shall have authority to appoint an acting Judicial Committee member until such time, either by special convention or regular convention, that the seat can be filled; within 90 days of vacancy but not sooner than 30 days.
+If the Judicial Committee has a vacancy the remaining members of the Judicial Committee shall have authority to appoint an acting Judicial Committee member until such time, either by special convention or regular convention, that the seat can be filled.
 
 A member of the Judicial Committee may not serve on the Executive Board. The Judicial Committee may be tasked by the State Central Committee or the Executive Board with examining, reviewing, taking testimony, holding hearings, and resolving or making recommendations for the following:
 
