@@ -58,7 +58,7 @@ The officers of the Party shall be a Chair, a Vice-Chair, Secretary and Treasure
 
 ### Section 2
 
-No offices shall be combined.
+No person shall hold more than one office in the Party at any one time.
 
 ---
 
