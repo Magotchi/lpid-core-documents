@@ -324,7 +324,7 @@ The standing order of business for a Regular Convention shall be as follows (tho
 
 ### Section 1
 
-Nominations shall be made from the Convention floor by delegates at a convention. All balloting shall be done by county roll-call vote of delegates.
+Nominations shall be made from the Convention floor by delegates at a convention. Voting shall be done by ballot.
 
 ### Section 2
 
