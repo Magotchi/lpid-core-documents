@@ -114,7 +114,7 @@ Convention attendees may not vote unless they were members in good standing of t
 
 ### Section 4
 
-Quorum for Regular Conventions shall be more than one half of the eligible members in attendance according to the Credentials Report at the start of that Regular Convention. Quorum shall be established by counting all physical and remote delegates credentialed at the time of call to order.
+Quorum for Conventions shall be more than one half of the eligible members in attendance according to the Credentials Report at the start of that Convention. Quorum shall be established by counting all delegates credentialed at the time of call to order.
 
 ### Section 5
 
