@@ -88,7 +88,7 @@ The Treasurer shall make available to the Executive Board quarterly Financial re
 
 ### Section 8
 
-Upon being suspended or vacating an office, an officer must render to the Executive Board within three days all materials concerning the Party he has in his possession.
+Upon being suspended or vacating an office, an officer must render to the Executive Board within three days all records and assets of the Party he has in his possession.
 
 ### Section 9
 
