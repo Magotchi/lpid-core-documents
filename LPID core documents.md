@@ -98,11 +98,11 @@ All meetings of the Executive Board shall be open to all members of the Party. D
 
 An officer may be suspended, that is, denied the authority to perform his specific functions, by a two-thirds vote of the State Central committee. The office of a suspended officer shall be declared vacant unless the suspended officer appeals his suspension. The State Central Committee shall appoint new officers if vacancies or suspensions occur, such officers to complete the term of the office vacated, or the time during which the suspension is in effect, as applicable. In the absence of a functioning State Central Committee, the Executive Board shall appoint the new officer(s).
 
-## ARTICLE V Meetings
+## ARTICLE V Conventions
 
 ### Section 1
 
-Regular Conventions shall be held each year, in the final two weeks of the month of April, or in accordance with the Election Laws of the State of Idaho. All Party business and affairs required herein shall be transacted. The regular convention location shall rotate between regions, when meeting in-person. Such conventions shall be held at the time and place selected by the Executive Board.
+Regular Conventions shall be held each year, in the month of March, at a time and place selected by the State Central Committee, provided that the time selected is at least 4 months after the meeting at which it is selected. The regular convention location shall rotate between regions.
 
 ### Section 2
 
