@@ -346,22 +346,16 @@ The Party shall not support the candidacy of any candidate for office opposing a
 
 ### Section 1
 
-The number of delegates shall be those allowed by the national Party and at least an equal number of delegates alternates.
+The number of delegates shall be those allowed by the national Party and at least an equal number of alternates.
 
 ### Section 2
 
-Delegates and alternates to the National Party Regular Convention shall be nominated from the floor of the state Delegate Selection Convention. The delegate nominees receiving the highest vote shall go to the national Party convention as delegates. Any Party member in good standing shall be eligible to be an alternate to the National Party Regular Convention.
+Delegates and alternates to the National Party Regular Convention shall be nominated from the floor of the state Delegate Selection Convention. The delegate nominees receiving the highest vote shall go to the national Party convention as delegates.
 
 ### Section 3
 
-Delegates shall be required to be bylaw sustaining members of the Libertarian Party of Idaho for a minimum of 60 consecutive days prior to the start date of the regular convention.
-
-At all regular conventions delegates shall be those so accredited who have registered for the convention.
+Delegates and alternates shall be required to be BSMs of the Libertarian Party of Idaho and Sustaining Members of the National Libertarian Party for a minimum of 60 consecutive days prior to the start date of the regular convention.
 
 ### Section 4
 
-Any Party member may attend any Regular National Convention as an observer.
-
-### Section 5
-
-Prior to each duly called national Regular Convention, the Secretary shall certify the delegates and alternates to the National Convention at least twenty days prior to the Convention to the national Party Secretary, and offer such proof as the National Party shall require that the selection of said delegates and alternate delegates was made in compliance with the Bylaws of the Libertarian Party of Idaho.
+Prior to each duly called national Regular Convention, the Secretary shall certify the delegates and alternates to the National Convention at least twenty days prior to the Convention to the national Party Secretary, and offer such proof as the National Party shall require that the selection of said delegates and alternates was made in compliance with the Bylaws of the Libertarian Party of Idaho.
