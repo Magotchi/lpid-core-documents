@@ -70,7 +70,7 @@ Duties of the officers:
 
 ### Section 4
 
-The chair shall preside at all conventions and at all meetings of the Executive Board. The chair shall be the chief executive officer of the Party.
+The chair shall be the chief executive officer of the Party. In the event of a vacancy of the Chair, the State Central Committee shall fill the vacancy.
 
 ### Section 5
 
