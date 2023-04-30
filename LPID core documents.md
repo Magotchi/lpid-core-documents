@@ -208,13 +208,9 @@ The Membership chair shall have the responsibility of increasing the membership 
 
 ### Section 4 - Platform Committee
 
-The statement of Principles of the Platform affirms the philosophy upon which the Libertarian Party is founded, by which it shall be sustained, and through which Liberty shall prevail.
+The Platform committee shall have the responsibility of making recommendations for additions, deletions, and amendments to the Party’s Platform, such recommendations to be made at Regular Conventions.
 
-The Party shall adopt the platform at its Regular Convention in 1976. The platform shall not be inconsistent with the Statement of Principles adopted by the national party. The platform shall include a Statement of Principles and proposals in the form of planks.
-
-The platform, exclusive of the Statement of Principles, shall be adopted on a plank-by-plank basis by the delegates in attendance at the 1976 Regular Convention. Each plank must receive approval by a vote of two-thirds of the voting delegates for inclusion in the Platform.
-
-The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
+The platform may be amended at Regular Conventions. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
 
 ### Section 5 - Bylaws and Rules Committee
 
