@@ -226,19 +226,19 @@ If the Judicial Committee members fail to be elected in a given year, they shall
 
 If the Judicial Committee has a vacancy the remaining members of the Judicial Committee shall have authority to appoint an acting Judicial Committee member until such time, either by special convention or regular convention, that the seat can be filled; within 90 days of vacancy but not sooner than 30 days.
 
-A member of the Judicial Committee may not serve on the Executive Board. The Judicial Committee may be tasked by the State Central Committee or the Executive Board with examining, reviewing, taking testimony, holding hearings, and resolving or making recommendations for the following: member complaints;
+A member of the Judicial Committee may not serve on the Executive Board. The Judicial Committee may be tasked by the State Central Committee or the Executive Board with examining, reviewing, taking testimony, holding hearings, and resolving or making recommendations for the following:
 
-* A. member disputes;
+* A. member complaints;
 
 * B. ambiguities or conflicts within or between the Bylaws or other governing documents, procedures, or practices;
 
-* C. disaffiliation of a County Affiliate;
+* C. censure or removal of an officer;
 
-* D. calls for censure or removal of an officer;
+* D. expulsion of a member, unless such expulsion is removed by a two-thirds vote at a Convention;
 
-* E. expulsion of a member;
+* E. suspension of a member for a fixed period of time, unless such suspension is removed by a two-thirds vote at a Convention;
 
-* F. and proposing amendments to the Bylaws or other governing documents
+* F. making recommendations to the Bylaws Committee of changes to the Bylaws or other governing documents
 
 At such time that the Judicial Committee becomes established according to the requirements of these Bylaws, it shall function as follows:
 
