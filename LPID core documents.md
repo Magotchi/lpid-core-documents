@@ -280,7 +280,7 @@ The rules contained in the current edition of Robert's Rules of Order Newly Revi
 
 ## ARTICLE XII Amendment of Bylaws
 
-These Bylaws may be amended at any regular meeting of the Party by a two-thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting or in the Call to the next meeting.
+These Bylaws may be amended at a Convention by a two-thirds vote, provided that the amendment has been submitted in writing at the previous Convention or in the Call to Convention.
 
 # Convention Special Rules of the Libertarian Party of Idaho
 
