@@ -192,7 +192,7 @@ The filling of vacancies in the slate of candidates shall be by the County Centr
 
 ## ARTICLE IX Other Committees
 
-### Section 1 - Financial Oversight Committee
+### Section 1 - Finance Committee
 
 The Finance chair shall have the responsibility of increasing the treasury of the Party, and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Finance chair shall select a working finance committee to assist in the fulfillment of such chair's duties.
 
