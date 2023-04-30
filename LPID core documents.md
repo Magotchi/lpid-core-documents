@@ -254,11 +254,7 @@ The purpose of this committee is to review legislative proposals and make recomm
 
 ### Section 9
 
-The Finance chair, Membership chair, and Publicity chair, and all other offices shall be appointed at the first meeting of the Executive Board after their election.
-
-### Section 10
-
-The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee directors.
+The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee chairs, except as provided in these bylaws.
 
 ## ARTICLE X Finances and Accounting
 
