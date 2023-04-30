@@ -276,7 +276,7 @@ The Executive Board shall have the power to designate the depository of all fund
 
 ## ARTICLE XI Parliamentary Authority
 
-Robert's Rules of Order Newly Revised current edition shall be the parliamentary authority for all matters of procedure not specifically covered by the Bylaws or Rules of the Party.
+The rules contained in the current edition of Robert's Rules of Order Newly Revised shall govern the party in all cases to which they are applicable and in which they are not inconsistent with state law, or federal law, or these bylaws, or any special rules of order the State Central Committee may adopt.
 
 ## ARTICLE XII Amendment of Bylaws
 
