@@ -74,7 +74,7 @@ The chair shall be the chief executive officer of the Party. In the event of a v
 
 ### Section 5
 
-The Vice-chair shall act as assistant to the chair, and shall perform the duties of the Chair in the event the chair is, for any reason, unable to perform the duties of that office.
+The Vice-chair shall act as assistant to the chair.
 
 ### Section 6
 
