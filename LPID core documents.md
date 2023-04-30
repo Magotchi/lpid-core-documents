@@ -196,11 +196,17 @@ The filling of vacancies in the slate of candidates shall be by the County Centr
 
 The Finance chair shall have the responsibility of increasing the treasury of the Party, and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Finance chair shall select a working finance committee to assist in the fulfillment of such chair's duties.
 
-### Section 2 - Membership Committee
+### Section 2 - Audit Committee
+
+There shall be an Audit Committee consisting of 3 BSMs appointed by the Executive Board. No member of the Executive Board, nor a family member of an Executive Board member, may be a member of the Audit Committee. The Audit Committee shall select its own chair.
+
+The Audit Committee shall arrange an audit of the party's finances, and report the results, with recommendations for action, to the Executive Board. A summary of the audit shall be made available to all BSMs. An audit must be performed at least once per 5 year interval.
+
+### Section 3 - Membership Committee
 
 The Membership chair shall have the responsibility of increasing the membership of the Party, and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Membership chair shall select a working membership committee to assist in the fulfillment of such chair's duties.
 
-### Section 3 - Platform Committee
+### Section 4 - Platform Committee
 
 The statement of Principles of the Platform affirms the philosophy upon which the Libertarian Party is founded, by which it shall be sustained, and through which Liberty shall prevail.
 
@@ -210,11 +216,11 @@ The platform, exclusive of the Statement of Principles, shall be adopted on a pl
 
 The platform may be amended at each succeeding Regular Convention after 1976 by deletion, substitution, or addition of any plank. A plank may be deleted by a simple majority of the Convention delegates. The substitution of a new plank for an old plank, or the addition of a new plank, shall require approval by a vote of two-thirds of the delegates present and voting.
 
-### Section 4 - Bylaws and Rules Committee
+### Section 5 - Bylaws and Rules Committee
 
 There shall be a Bylaws and Rules Committee consisting of seven party members appointed by the Executive Board.
 
-### Section 5 - Judicial Committee
+### Section 6 - Judicial Committee
 
 A Judicial Committee shall be composed of five members: any three will constitute a quorum.
 
@@ -244,19 +250,19 @@ At such time that the Judicial Committee becomes established according to the re
 
 - b) Challenges of adopted Party planks believed by a delegate to be in conflict with the Statement of Principles shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
 
-### Section 6 - Publicity Committee
+### Section 7 - Publicity Committee
 
 The Publicity chair shall have the responsibility for publicizing the Party and its activities and for such other duties as may be assigned by the Executive Board. With the help and cooperation of the Executive Board, the Publicity chair shall select a working publicity committee to assist in the fulfillment of such chair's duties.
 
-### Section 7 - Legislative Watch Committee
+### Section 8 - Legislative Watch Committee
 
 The purpose of this committee is to review legislative proposals and make recommendations for rejection or support. The Committee's primary purpose is to ensure that the Party's stance on a legislative proposal meets the state and national platform principles. The Committee may consider party member and/or third party organization input. The Committee may also provide technical support in drafting of proposals or bills where appropriate.
 
-### Section 8
+### Section 9
 
 The Finance chair, Membership chair, and Publicity chair, and all other offices shall be appointed at the first meeting of the Executive Board after their election.
 
-### Section 9
+### Section 10
 
 The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee directors.
 
