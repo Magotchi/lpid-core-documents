@@ -240,11 +240,7 @@ A member of the Judicial Committee may not serve on the Executive Board. The Jud
 
 * F. making recommendations to the Bylaws Committee of changes to the Bylaws or other governing documents
 
-At such time that the Judicial Committee becomes established according to the requirements of these Bylaws, it shall function as follows:
-
-- a) Take disciplinary actions against any other party member in accordance with Robert's Rules of Order Newly Revised, except as otherwise provided herein by the Party Bylaws.
-
-- b) Challenges of adopted Party planks believed by a delegate to be in conflict with the Statement of Principles shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
+In addition, the Judicial Committee may hear challenges of adopted Party planks believed by a delegate to be in conflict with the Libertarian Party of Idaho Statement of Principles, which shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three-fourths vote of the Regular Convention delegates.
 
 ### Section 7 - Publicity Committee
 
