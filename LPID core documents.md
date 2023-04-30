@@ -78,7 +78,7 @@ The Vice-chair shall act as assistant to the chair.
 
 ### Section 6
 
-The Secretary shall be the recording and corresponding officer of the Party, and shall provide or make provision for all legal services to the Party, under the direction of the Executive Board. The Secretary shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
+The Secretary shall have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
 
 ### Section 7
 
