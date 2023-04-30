@@ -250,7 +250,7 @@ The Publicity chair shall have the responsibility for publicizing the Party and 
 
 ### Section 8 - Legislative Watch Committee
 
-The purpose of this committee is to review legislative proposals and make recommendations for rejection or support. The Committee's primary purpose is to ensure that the Party's stance on a legislative proposal meets the state and national platform principles. The Committee may consider party member and/or third party organization input. The Committee may also provide technical support in drafting of proposals or bills where appropriate.
+The purpose of this committee is to review legislative proposals and make recommendations for rejection or support. The Committee's primary purpose is to ensure that the Party's stance on a legislative proposal meets the state platform principles. The Committee may consider party member and/or third party organization input. The Committee may also provide technical support in drafting of proposals or bills where appropriate. With the help and cooperation of the Executive Board, the Legislative Watch chair shall select a working Legislative Watch Committee to assist in the fulfillment of such chair's duties.
 
 ### Section 9
 
