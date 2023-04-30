@@ -166,7 +166,7 @@ To afford all Board members the ability to participate in meetings, meetings sha
 
 ### Section 1
 
-The Bylaws of the Party are also the governing documents of the State Central Committee. The four officers of the Party (Chair, Vice-Chair, Secretary and Treasurer) are the officers of the State Central Committee.
+The Bylaws of the Party are also the governing documents of the State Central Committee. The officers of the Party are the officers of the State Central Committee and are not voting members of the State Central Committee.
 
 ### Section 2
 
