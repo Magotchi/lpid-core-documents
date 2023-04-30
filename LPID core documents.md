@@ -48,11 +48,15 @@ Dues paid by any member of the party shall secure the membership of that person 
 
 Lifetime Membership: A Bylaws Sustaining Member (BSM) who donates more than or equal to a preset amount within a calendar year, set by the Executive Board, shall automatically become a lifetime member. This membership will be contingent upon the person to maintain all qualifications of a Bylaws Sustaining Member at all times.
 
+### Section 6
+
+Only BSMs or Lifetime Members shall be eligible for any office or position on the Executive Committee.
+
 ## ARTICLE IV Officers
 
 ### Section 1
 
-The officers of the Party shall be a Chair, a Vice-Chair, Secretary and Treasurer. Only Party members in good standing shall be eligible to fill these offices. The Vice Chair and the Secretary shall be elected at a Regular Convention of the Party on even numbered years and the Chair and the Treasurer Shall be elected at a Regular Convention on odd numbered years by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention occurring on an even numbered year. If, for any reason, a Regular Convention is not held during an appropriate year, all officers of the party shall be elected at the next available Convention, including, but not limited to, a Delegate Selection Convention, or a Regular Convention occurring on an odd numbered year.
+The officers of the Party shall be a Chair, a Vice-Chair, Secretary and Treasurer. The Vice Chair and the Secretary shall be elected at a Regular Convention of the Party on even numbered years and the Chair and the Treasurer Shall be elected at a Regular Convention on odd numbered years by attending Party delegates and shall take office immediately upon the close of such convention and serve thereafter until the final adjournment of the next Regular Convention occurring on an even numbered year. If, for any reason, a Regular Convention is not held during an appropriate year, all officers of the party shall be elected at the next available Convention, including, but not limited to, a Delegate Selection Convention, or a Regular Convention occurring on an odd numbered year.
 
 ### Section 2
 
