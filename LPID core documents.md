@@ -116,6 +116,12 @@ Convention attendees may not vote unless they were members in good standing of t
 
 Quorum for Regular Conventions shall be more than one half of the eligible members in attendance according to the Credentials Report at the start of that Regular Convention. Quorum shall be established by counting all physical and remote delegates credentialed at the time of call to order.
 
+### Section 5
+
+Special Conventions may be called for specific purposes upon the written request of at least one tenth of the membership; or upon a vote of the Executive Board, or the State Central Committee.
+
+The body calling the Special Convention shall make arrangements for the time and place of the Special Convention, with such time being at least twenty-one (21) days after the date of the call. The Chair shall provide notice to the entire membership at least fourteen (14) days prior to the convention, including the specific purpose in such notice. No business except the specific purpose shall be conducted at such Special Conventions.
+
 ## ARTICLE VI The Executive Board
 
 ### Section 1
