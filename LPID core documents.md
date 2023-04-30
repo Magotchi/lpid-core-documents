@@ -60,37 +60,41 @@ The officers of the Party shall be a Chair, a Vice-Chair, Secretary and Treasure
 
 No person shall hold more than one office in the Party at any one time.
 
+### Section 3
+
+In addition to the duties described in these bylaws, all officers shall perform the duties prescribed to them by the Parliamentary Authority.
+
 ---
 
 Duties of the officers:
 
-### Section 3
+### Section 4
 
 The chair shall preside at all conventions and at all meetings of the Executive Board. The chair shall be the chief executive officer of the Party.
 
-### Section 4
+### Section 5
 
 The Vice-chair shall act as assistant to the chair, and shall perform the duties of the Chair in the event the chair is, for any reason, unable to perform the duties of that office.
 
-### Section 5
+### Section 6
 
 The Secretary shall be the recording and corresponding officer of the Party, and shall provide or make provision for all legal services to the Party, under the direction of the Executive Board. The Secretary shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
 
-### Section 6
+### Section 7
 
 The Treasurer shall receive, expend, and account for the funds of the Party under the supervision and direction of the chair and the Executive Board. The records for such funds shall be maintained in accordance with generally accepted accounting principles and the Treasurer shall make available to the Executive Board quarterly financial reports, such reports to include a Statement of Operations and a Balance Sheet.
 
 ---
 
-### Section 7
+### Section 8
 
 Upon being suspended or vacating an office, an officer must render to the Executive Board within three days all materials concerning the Party he has in his possession.
 
-### Section 8
+### Section 9
 
 All meetings of the Executive Board shall be open to all members of the Party. Discussion from non-committee members shall be entertained only by majority vote of the Executive Board.
 
-### Section 9
+### Section 10
 
 An officer may be suspended, that is, denied the authority to perform his specific functions, by a two-thirds vote of the State Central committee. The office of a suspended officer shall be declared vacant unless the suspended officer appeals his suspension. The State Central Committee shall appoint new officers if vacancies or suspensions occur, such officers to complete the term of the office vacated, or the time during which the suspension is in effect, as applicable. In the absence of a functioning State Central Committee, the Executive Board shall appoint the new officer(s).
 
