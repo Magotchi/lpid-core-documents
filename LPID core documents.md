@@ -30,11 +30,13 @@ Bylaw Sustaining Member (BSM) is defined as a person who:
 
 - b. Has paid minimum dues required for membership to the State Party within the last 12 consecutive months, or is a lifetime member; and
 
-- c. As defined by Idaho State Law is either
+- c. As defined by Idaho State Law is
 
-    1. A Qualified Elector registered as Libertarian or Unaffiliated; or
+    1. A resident of Idaho; and
 
-    2. A resident of Idaho, who is not registered to vote.
+    2. At least 16 years of age; and
+
+- d. Is in good standing with the Party.
 
 ### Section 3
 
@@ -42,13 +44,9 @@ Classes of membership. The classes of membership and dues shall be initially det
 
 ### Section 4
 
-Dues paid by any member of the party shall secure the membership of that person until that same date the following calendar year, so long as that person remains in good standing with the Party.
-
-### Section 5
-
 Lifetime Membership: A Bylaws Sustaining Member (BSM) who donates more than or equal to a preset amount within a calendar year, set by the Executive Board, shall automatically become a lifetime member. This membership will be contingent upon the person to maintain all qualifications of a Bylaws Sustaining Member at all times.
 
-### Section 6
+### Section 5
 
 Only BSMs or Lifetime Members shall be eligible for any office or position on the Executive Committee.
 
