@@ -122,21 +122,31 @@ Special Conventions may be called for specific purposes upon the written request
 
 The body calling the Special Convention shall make arrangements for the time and place of the Special Convention, with such time being at least twenty-one (21) days after the date of the call. The Chair shall provide notice to the entire membership at least fourteen (14) days prior to the convention, including the specific purpose in such notice. No business except the specific purpose shall be conducted at such Special Conventions.
 
-## ARTICLE VI The Executive Board
+## ARTICLE VI Regional Party Organizations
 
 ### Section 1
 
-The Executive Board of the Party shall be composed of the following:
+There shall be three Regions consisting of:
 
-The four elected officers of the Party, and Regional Chairs for each region, elected at the Regular Convention by each Region's caucus.
+- a) Region 1: Benewah, Bonner, Boundary, Clearwater, Idaho, Kootenai, Latah, Lewis, Nez Perce, and Shoshone Counties(10).
 
-Each Regional Chair shall represent a specific region of the state and shall be responsible for appointing a Regional Committee to organize and carry forward the goals of the state party within that region. Regional Chairs must reside in the region they represent and must be elected at the Region's caucus by the delegates residing in that region.
+- b) Region 2: Ada, Adams, Boise, Canyon, Elmore, Gem, Owyhee, Payette, Valley, and Washington Counties(10).
 
-- a) Region 1: Benewah, Bonner, Boundary, Clearwater, Idaho, Kootenai, Latah, Lewis, Nez Perce, and Shoshone (10).
+- c) Region 3: Bannock, Bear Lake, Bingham, Blaine, Bonneville, Butte, Camas, Caribou, Cassia, Clark, Custer, Franklin, Fremont, Gooding, Jefferson, Jerome, Lemhi, Lincoln, Madison, Minidoka, Oneida, Power, Teton, and Twin Falls Counties(24).
 
-- b) Region 2: Ada, Adams, Boise, Canyon, Elmore, Gem, Owyhee, Payette, Valley, and Washington (10).
+### Section 2
 
-- c) Region 3: Bannock, Bear Lake, Bingham, Blaine, Bonneville, Butte, Camas, Caribou, Cassia, Clark, Custer, Franklin, Fremont, Gooding, Jefferson, Jerome, Lemhi, Lincoln, Madison, Minidoka, Oneida, Power, Teton, and Twin Falls (24).
+Each Region shall hold a Caucus at Regular Conventions to elect Region Chairs.
+
+### Section 3
+
+In the event of a vacancy in the position of Region Chair, the Party Chair shall call a Caucus of the Members in that Region to elect a new Region Chair within 30 days of the vacancy. Such Caucus may be conducted by electronic means.
+
+## ARTICLE VII The Executive Board
+
+### Section 1
+
+The Executive Board of the Party shall be composed of the elected officers of the Party, and Regional Chairs for each region.
 
 ### Section 2
 
@@ -156,7 +166,7 @@ To afford all Board members the ability to participate in meetings, meetings sha
 
 Provisions shall be made for observation of Board meetings by the general membership at the primary and at any, and all, remote locations.
 
-## ARTICLE VII Central Committees
+## ARTICLE VIII Central Committees
 
 ### Section 1
 
@@ -190,7 +200,7 @@ If a legislative district central committee does not exist, the precinct committ
 
 The filling of vacancies in the slate of candidates shall be by the County Central Committees, Legislative District Central Committees, and State Central Committee as provided by Idaho law.
 
-## ARTICLE VIII Other Committees
+## ARTICLE IX Other Committees
 
 ### Section 1 - Financial Oversight Committee
 
@@ -260,7 +270,7 @@ The Finance chair, Membership chair, and Publicity chair, and all other offices 
 
 The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee directors.
 
-## ARTICLE IX Finances and Accounting
+## ARTICLE X Finances and Accounting
 
 ### Section 1
 
@@ -278,11 +288,11 @@ All disbursements exceeding $25.00 shall be made solely by check.
 
 The Executive Board shall have the power to designate the depository of all funds of the Party, and shall appoint such officers and employees as its judgment may deem advisable to deposit and withdraw funds from said depository.
 
-## ARTICLE X Parliamentary Authority
+## ARTICLE XI Parliamentary Authority
 
 Robert's Rules of Order Newly Revised current edition shall be the parliamentary authority for all matters of procedure not specifically covered by the Bylaws or Rules of the Party.
 
-## ARTICLE XI Amendment of Bylaws
+## ARTICLE XII Amendment of Bylaws
 
 These Bylaws may be amended at any regular meeting of the Party by a two-thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting or in the Call to the next meeting.
 
