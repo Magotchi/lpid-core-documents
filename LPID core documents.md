@@ -176,21 +176,15 @@ The State Central Committee shall in addition consist of all legislative distric
 
 The County Central Committee in each county shall consist of the precinct committeemen representing the precincts within the county and the county chairman elected by the precinct committeemen. The precinct committeemen within each county shall meet at the county seat within ten (10) days after the primary election and at the time and date designated by the incumbent county chairman, and shall organize by electing a chairman, vice chairman, a secretary, a state committeeman, a state committeewoman, and such other officers as they may desire who shall hold office at the pleasure of the county central committee or until their successors are elected.
 
-When a vacancy exists in the office of county central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the precinct committeemen of the county, and the precinct committeemen shall proceed to elect a chairman of the county central committee for the balance of the unexpired term.
+When a vacancy exists in the office of county central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that county, who shall proceed to elect a chairman of the county central committee for the balance of the unexpired term.
 
 The county central committee shall fill by appointment all vacancies that occur or exist in the office of precinct committeeman who shall be a qualified elector of the precinct.
-
-If a county central committee does not exist, the precinct committeemen within that county shall form one based on state law to the maximum extent practical.
-
-In the event there are no duly elected precinct committeemen within that county, the dues paying members of the Party residing within that county shall select precinct committeemen for the purpose of this and the following Section. The selection process of precinct committeemen shall mimic the election process provided for in state law to the maximum extent practical.
 
 ### Section 4
 
 The Legislative District Central Committee in each legislative district shall consist of the precinct committeemen representing the precincts within the legislative district, and the legislative district chairman elected by the precinct committeemen. The precinct committeemen within each legislative district shall meet within the legislative district within eleven (11) days after the primary election, the meeting time and place to be designated by the incumbent legislative district chairman. At this meeting the precinct committeemen shall organize by electing a chairman, vice chairman, a secretary and such other officers as they may desire, who shall hold office at the pleasure of the legislative district central committee or until their successors are elected.
 
-When a vacancy exists in the office of legislative district central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the precinct committeemen of the legislative district, and the precinct committeemen shall proceed to elect a chairman of the legislative district central committee for the balance of the unexpired term.
-
-If a legislative district central committee does not exist, the precinct committeemen within that legislative district shall form one based on state law to the maximum extent practical.
+When a vacancy exists in the office of legislative district central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that Legislative District, who shall proceed to elect a chairman of the legislative district central committee for the balance of the unexpired term.
 
 ### Section 5
 
