@@ -82,7 +82,7 @@ The Secretary shall have the power to appoint any other qualified member as an a
 
 ### Section 7
 
-The Treasurer shall receive, expend, and account for the funds of the Party under the supervision and direction of the chair and the Executive Board. The records for such funds shall be maintained in accordance with generally accepted accounting principles and the Treasurer shall make available to the Executive Board quarterly financial reports, such reports to include a Statement of Operations and a Balance Sheet.
+The Treasurer shall make available to the Executive Board quarterly Financial reports, such reports to include a Statement of Operations and a Balance Sheet. The Treasurer shall also have the power to appoint any other qualified member as an assistant in carrying out the functions of this office.
 
 ---
 
