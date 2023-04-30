@@ -92,7 +92,7 @@ Upon being suspended or vacating an office, an officer must render to the Execut
 
 ### Section 9
 
-All meetings of the Executive Board shall be open to all members of the Party. Discussion from non-committee members shall be entertained only by majority vote of the Executive Board.
+All meetings of the Executive Board shall be open to all members of the Party. Discussion from non-committee members shall be entertained only by majority vote of the Executive Board. This section shall not prevent the Executive Board from going into Executive Session.
 
 ### Section 10
 
