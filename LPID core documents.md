@@ -110,7 +110,7 @@ In the event that a National Convention shall be held within 45 days following t
 
 ### Section 3
 
-Convention attendees may not vote unless they were members in good standing of the Party as of the end of January prior to the convention.
+Convention attendees may not vote unless they were members in good standing of the Party for at least three months prior to the convention.
 
 ### Section 4
 
