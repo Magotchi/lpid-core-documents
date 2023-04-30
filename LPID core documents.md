@@ -26,7 +26,7 @@ All bylaws sustaining members (BSM) of the Party shall enjoy full rights as stat
 
 Bylaw Sustaining Member (BSM) is defined as a person who:
 
-- a. Has signed a statement agreeing with the Non-Aggression Principle (NAP); and
+- a. Has signed a statement agreeing with the Non-Aggression Principle (NAP), as written by the National Libertarian Party; and
 
 - b. Has paid minimum dues required for membership to the State Party within the last 12 consecutive months, or is a lifetime member; and
 
