@@ -1,0 +1,80 @@
+@counter-style lower-alpha-right-parenthesis {
+  system: alphabetic;
+  symbols: a b c d e f g h i j k l m n o p q r s t u v w x y z;
+  suffix: ') ';
+}
+@counter-style decimal-right-parenthesis {
+  system: numeric;
+  symbols: '0' '1' '2' '3' '4' '5' '6' '7' '8' '9';
+  suffix: ') ';
+}
+@counter-style lower-roman-right-parenthesis {
+  system: fixed;
+  symbols: 'i' 'ii' 'iii' 'iv' 'v' 'vi' 'vii' 'viii' 'ix' 'x';
+  suffix: ') ';
+}
+ol[type="a"] {
+    list-style: lower-alpha-right-parenthesis;
+}
+ol[type="1"] {
+    list-style: decimal-right-parenthesis;
+}
+ol[type="i"] {
+    list-style: lower-roman-right-parenthesis;
+}
+h1:before {
+    background-image: url('header.png');
+    background-size: 6.5in 1.894in;
+    background-repeat: no-repeat;
+    display: block;
+    width: 6.5in;
+    height: 1.894in;
+    margin-bottom: 0.25in;
+    content: "";
+}
+h1 {
+  page-break-before: always;
+  string-set: heading content();
+}
+@page {
+    @bottom-left{
+        content: "LPID Governing Documents";
+        font-size: 9pt;
+        font-weight: 400;
+        white-space: nowrap;
+    }
+    @bottom-center{
+        content: "Page " counter(page) " of " counter(pages);
+        font-size: 9pt;
+        font-weight: 400;
+        white-space: nowrap;
+    }
+    @bottom-right{
+        content: string(heading);
+        font-size: 9pt;
+        font-weight: 400;
+        white-space: nowrap;
+    }
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+nav#TOC {
+    font-family: Lato;
+}
+nav#TOC ul {
+    list-style-type: none;
+}
+nav#TOC > ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+nav#TOC > ul > li > a {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+nav#TOC a::after {
+  content: target-counter(attr(href), page );
+  float: right;
+}
