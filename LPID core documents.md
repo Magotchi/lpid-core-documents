@@ -238,7 +238,7 @@ e. suspension of a member for a fixed period of time, unless such suspension is 
 
 f. making recommendations to the Bylaws Committee of changes to the Bylaws or other governing documents
 
-In addition, the Judicial Committee may hear challenges of adopted Party planks believed by a delegate to be in conflict with the Libertarian Party of Idaho Statement of Principles, which shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict, The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three‐fourths vote of the Regular Convention delegates.
+In addition, the Judicial Committee may hear challenges of adopted Party planks believed by a delegate to be in conflict with the Libertarian Party of Idaho Statement of Principles, which shall be referred in writing, during the Regular Convention, to the Judicial Committee by the delegate requesting action for consideration. The challenge shall specify in what manner the plank is believed to be in conflict. The Judicial committee shall consider the challenge, decide whether the plank in question conforms to the Statement of Principles, and make a report stating the justification of their decision to the floor of the convention. If the plank is found to be in conflict by the Judicial Committee, it shall be declared null and void, but can be reinstated in the platform by a three‐fourths vote of the Regular Convention delegates.
 
 The Judicial Committee shall prepare a document entitled "Judicial Committee Rules of Appellate Procedure" to govern its consideration of matters within the scope of its jurisdiction. This document shall remain in effect until and unless the Judicial Committee submits new proposed rules to the Executive Board for approval; such approval as well as approval of the initial document, shall be deemed given unless denied by two‐thirds of the Executive Board within 60 days of submission. The Judicial Committee may prepare or amend this document at any time when there is no matter pending its consideration. The Secretary will maintain this document with the Bylaws and Rules.
 
@@ -418,7 +418,7 @@ When a petition is received at any time other than a State Convention, the Chair
 
 ### Rule 9
 
-Within seven days following the receipt of a petition, the Chair shall send a copy of the petition via electronic mail to each prospective respondent, along with any supporting material the Chair has been sent, and notice that any Response to the petitions by any respondent much be sent in writing within 14 days, or if received during State Convention, promptly.
+Within seven days following the receipt of a petition, the Chair shall send a copy of the petition via electronic mail to each prospective respondent, along with any supporting material the Chair has been sent, and notice that any Response to the petitions by any respondent must be sent in writing within 14 days, or if received during State Convention, promptly.
 
 ### Rule 10
 
