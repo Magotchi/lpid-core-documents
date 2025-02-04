@@ -152,9 +152,9 @@ The Executive Board shall meet at such times and places as may be determined by 
 
 #### Section 3: Email Ballots
 
-The Executive Board may, without meeting together, transact business by email, voting on a question submitted to them by the Chair or co‐sponsored by three members of the Executive Board. 10 days shall be allowed for the return of votes thereon by e‐mail to the Party Secretary.
+The Executive Board may, without meeting together, transact business by email, voting on a question submitted to them by the Chair or co‐sponsored by three members of the Executive Board. 10 days shall be allowed for the return of votes thereon by e‐mail to the Party Secretary, except that the result may be declared when all members have voted.
 
-If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes, except that the result may be declared when all members have voted.
+If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
 
 #### Section 4: Electronic Meetings
 
