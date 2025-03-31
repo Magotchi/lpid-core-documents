@@ -152,13 +152,13 @@ The Executive Board shall meet at such times and places as may be determined by 
 
 #### Section 3: Email Ballots
 
-The Executive Board may, without meeting together, transact business by email, voting on a question submitted to them by the Chair or co‐sponsored by three members of the Executive Board. 10 days shall be allowed for the return of votes thereon by e‐mail to the Party Secretary.
+The Executive Board may, without meeting together, transact business by email, voting on a question submitted to them by the Chair or co‐sponsored by three members of the Executive Board. 10 days shall be allowed for the return of votes thereon by e‐mail to the Party Secretary, except that the result may be declared when all members have voted.
 
-If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes, except that the result may be declared when all members have voted.
+If at the expiration of the applicable period, the majority of the Executive Board have not returned their votes, the measure being voted on shall be deemed to have failed. The Secretary must preserve all such votes until the next meeting of the Executive Board, at which meeting the Executive Board shall order the disposition of the votes.
 
 #### Section 4: Electronic Meetings
 
-To afford all Board members the ability to participate in meetings, meetings shall be conducted at a location with technological services available. A speakerphone and a telephone connection capable of conference calling shall be the minimum facility requirement. The Board and general members attending an Executive Board meeting shall be individually and severally responsible for any facilities, equipment, transportation, Internet, telephone company, and/or other charges required for their participation at or from a particular meeting location.
+To afford all Board members the ability to participate in meetings, meetings shall be conducted at a location with technological services available. A speakerphone and a telephone connection capable of conference calling shall be the minimum facility requirement.
 
 ### Article VIII: Central Committees
 
@@ -168,25 +168,33 @@ The Bylaws of the Party are also the governing documents of the State Central Co
 
 #### Section 2
 
-The State Central Committee shall in addition consist of all legislative district chairmen, all county central committee chairmen, and all state committee persons selected by the county central committees. Each of the above members of the state central committee shall be entitled to vote at all meetings of the state central committee and the State Conventions as delegates.
+The State Central Committee shall in addition consist of all legislative district chairmen, all county central committee chairmen, and all state committee persons selected by the county central committees. Each of the above members of the state central committee shall be entitled to vote at all meetings of the state central committee and the State Conventions as delegates. The quorum for meetings of the State Central Committee shall be one-fourth of the members of the State Central Committee, or two-thirds of the number of committee members present when the meeting is called to order, whichever is greater. Notice of meetings of the State Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present.
 
 #### Section 3: County Central Committee
 
-The County Central Committee in each county shall consist of the precinct committeemen representing the precincts within the county and the county chairman elected by the precinct committeemen. The precinct committeemen within each county shall meet at the county seat within 10 days after the primary election and at the time and date designated by the incumbent county chairman, and shall organize by electing a chairman, vice chairman, a secretary, a state committeeman, a state committeewoman, and such other officers as they may desire who shall hold office at the pleasure of the county central committee or until their successors are elected.
+The County Central Committee in each county shall consist of the precinct committeemen representing the precincts within the county, the BSMs resident in the county, and the county chairman elected by the committee members. The County Central Committee shall meet at the county seat within 10 days after the primary election and at the time and date designated by the incumbent county chairman, and shall organize by electing a chairman, vice chairman, a secretary, a state committeeman, a state committeewoman, and such other officers as they may desire who shall hold office at the pleasure of the county central committee or until their successors are elected.
 
 When a vacancy exists in the office of county central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that county, who shall proceed to elect a chairman of the county central committee for the balance of the unexpired term.
 
 The county central committee shall fill by appointment all vacancies that occur or exist in the office of precinct committeeman who shall be a qualified elector of the precinct.
 
+The quorum for meetings of the County Central Committee shall be two-thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the County Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present, and is waived for statutorily-required organizational meetings of the County Central Committee in the 10 days following the primary election. For statutorially-required organizational meetings, notice shall be given a minimum of 48 hours before the meeting.
+
 #### Section 4: Legislative District Central Committee
 
-The Legislative District Central Committee in each legislative district shall consist of the precinct committeemen representing the precincts within the legislative district, and the legislative district chairman elected by the precinct committeemen. The precinct committeemen within each legislative district shall meet within the legislative district within 11 days after the primary election, the meeting time and place to be designated by the incumbent legislative district chairman. At this meeting the precinct committeemen shall organize by electing a chairman, vice chairman, a secretary and such other officers as they may desire, who shall hold office at the pleasure of the legislative district central committee or until their successors are elected.
+The Legislative District Central Committee in each legislative district shall consist of the precinct committeemen representing the precincts within the legislative district, the BSMs resident in the legislative district, and the legislative district chairman elected by the committee members. The committee members shall meet within the legislative district within 11 days after the primary election, the meeting time and place to be designated by the incumbent legislative district chairman. At this meeting the precinct committeemen shall organize by electing a chairman, vice chairman, a secretary and such other officers as they may desire, who shall hold office at the pleasure of the legislative district central committee or until their successors are elected.
 
 When a vacancy exists in the office of legislative district central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that Legislative District, who shall proceed to elect a chairman of the legislative district central committee for the balance of the unexpired term.
+
+The quorum for meetings of the Legislative District Central Committee shall be two-thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the Legislative District Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present, and is waived for statutorily-required organizational meetings of the Legislative District Central Committee in the 11 days following the primary election. For statutorially-required organizational meetings, notice shall be given a minimum of 48 hours before the meeting.
 
 #### Section 5
 
 The filling of vacancies in the slate of candidates shall be by the County Central Committees, Legislative District Central Committees, and State Central Committee as provided by Idaho law.
+
+#### Section 6
+
+All Central Committees may hold meetings by gathering in a physical location, or by video/audio conference. When a Central Committee meets by gathering in a physical location, a speakerphone and a telephone connection capable of conference calling shall be the minimum facility requirement.
 
 ### Article IX: Other Committees
 
@@ -252,7 +260,7 @@ The purpose of this committee is to review legislative proposals and make recomm
 
 #### Section 9
 
-The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee chairs, except as provided in these bylaws.
+The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee chairs, except as provided in these bylaws. All committees formed under these bylaws or at the direction of the Chair or the Executive Board shall meet either in physical locations, or via video/audio conference.
 
 ### Article X: Finances and Accounting
 
