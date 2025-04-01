@@ -1,17 +1,14 @@
 @counter-style lower-alpha-right-parenthesis {
   system: alphabetic;
   symbols: a b c d e f g h i j k l m n o p q r s t u v w x y z;
-  suffix: ') ';
 }
 @counter-style decimal-right-parenthesis {
   system: numeric;
   symbols: '0' '1' '2' '3' '4' '5' '6' '7' '8' '9';
-  suffix: ') ';
 }
 @counter-style lower-roman-right-parenthesis {
   system: fixed;
   symbols: 'i' 'ii' 'iii' 'iv' 'v' 'vi' 'vii' 'viii' 'ix' 'x';
-  suffix: ') ';
 }
 ol[type="a"] {
     list-style: lower-alpha-right-parenthesis;

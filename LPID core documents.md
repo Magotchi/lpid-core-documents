@@ -2,7 +2,7 @@
 
 ## Bylaws
 
-Adopted April 22, 2023
+Adopted March 15, 2025
 
 ### Article I: Name
 
@@ -116,7 +116,7 @@ Quorum for Conventions shall be more than one‐half of the eligible members in 
 
 #### Section 5: Special Conventions
 
-Special Conventions may be called for specific purposes upon the written request of at least one-tenth of the membership; or upon a vote of the Executive Board, or the State Central Committee.
+Special Conventions may be called for specific purposes upon the written request of at least one‐tenth of the membership; or upon a vote of the Executive Board, or the State Central Committee.
 
 The body calling the Special Convention shall make arrangements for the time and place of the Special Convention, with such time being at least 21 days after the date of the call. The Chair shall provide notice to the entire membership at least 14 days prior to the convention, including the specific purpose in such notice. No business except the specific purpose shall be conducted at such Special Conventions.
 
@@ -168,7 +168,7 @@ The Bylaws of the Party are also the governing documents of the State Central Co
 
 #### Section 2
 
-The State Central Committee shall in addition consist of all legislative district chairmen, all county central committee chairmen, and all state committee persons selected by the county central committees. Each of the above members of the state central committee shall be entitled to vote at all meetings of the state central committee and the State Conventions as delegates. The quorum for meetings of the State Central Committee shall be one-fourth of the members of the State Central Committee, or two-thirds of the number of committee members present when the meeting is called to order, whichever is greater. Notice of meetings of the State Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present.
+The State Central Committee shall in addition consist of all legislative district chairmen, all county central committee chairmen, and all state committee persons selected by the county central committees. Each of the above members of the state central committee shall be entitled to vote at all meetings of the state central committee and the State Conventions as delegates. The quorum for meetings of the State Central Committee shall be one‐fourth of the members of the State Central Committee, or two‐thirds of the number of committee members present when the meeting is called to order, whichever is greater. Notice of meetings of the State Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present.
 
 #### Section 3: County Central Committee
 
@@ -178,7 +178,7 @@ When a vacancy exists in the office of county central committee chairman, it sha
 
 The county central committee shall fill by appointment all vacancies that occur or exist in the office of precinct committeeman who shall be a qualified elector of the precinct.
 
-The quorum for meetings of the County Central Committee shall be two-thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the County Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present, and is waived for statutorily-required organizational meetings of the County Central Committee in the 10 days following the primary election. For statutorially-required organizational meetings, notice shall be given a minimum of 48 hours before the meeting.
+The quorum for meetings of the County Central Committee shall be two‐thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the County Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present, and is waived for statutorily‐required organizational meetings of the County Central Committee in the 10 days following the primary election. For statutorially‐required organizational meetings, notice shall be given a minimum of 48 hours before the meeting.
 
 #### Section 4: Legislative District Central Committee
 
@@ -186,7 +186,7 @@ The Legislative District Central Committee in each legislative district shall co
 
 When a vacancy exists in the office of legislative district central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that Legislative District, who shall proceed to elect a chairman of the legislative district central committee for the balance of the unexpired term.
 
-The quorum for meetings of the Legislative District Central Committee shall be two-thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the Legislative District Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present, and is waived for statutorily-required organizational meetings of the Legislative District Central Committee in the 11 days following the primary election. For statutorially-required organizational meetings, notice shall be given a minimum of 48 hours before the meeting.
+The quorum for meetings of the Legislative District Central Committee shall be two‐thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the Legislative District Central Committee must be sent to all committee members at least 14 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present, and is waived for statutorily‐required organizational meetings of the Legislative District Central Committee in the 11 days following the primary election. For statutorially‐required organizational meetings, notice shall be given a minimum of 48 hours before the meeting.
 
 #### Section 5
 
@@ -206,7 +206,7 @@ The Finance chair shall have the responsibility of increasing the treasury of th
 
 There shall be an Audit Committee consisting of three BSMs appointed by the Executive Board. No member of the Executive Board, nor a family member of an Executive Board member, may be a member of the Audit Committee. The Audit Committee shall select its own chair.
 
-The Audit Committee shall arrange an audit of the party's finances, and report the results, with recommendations for action, to the Executive Board. A summary of the audit shall be made available to all BSMs. An audit must be performed at least once per five-year interval.
+The Audit Committee shall arrange an audit of the party's finances, and report the results, with recommendations for action, to the Executive Board. A summary of the audit shall be made available to all BSMs. An audit must be performed at least once per five‐year interval.
 
 #### Section 3: Membership Committee
 
@@ -384,7 +384,7 @@ Adopted April, 2022
 
 ### Rule 1
 
-Whenever there is a vacancy in the positions of Chair or Vice Chair of the Judicial Committee, the members of the Committee shall convene promptly to elect new members to the vacant position(s). The election to either position shall be by majority vote of the Committee members. The Chair and Vice Chair shall have one-year terms, and shall be elected within one month after the State Convention.
+Whenever there is a vacancy in the positions of Chair or Vice Chair of the Judicial Committee, the members of the Committee shall convene promptly to elect new members to the vacant position(s). The election to either position shall be by majority vote of the Committee members. The Chair and Vice Chair shall have one‐year terms, and shall be elected within one month after the State Convention.
 
 ### Rule 2
 
@@ -442,7 +442,7 @@ When any petition or response is received by the Chair and distributed to the Co
 
 ### Rule 13
 
-After the time period for responses has passed, and the Chair has been advised by enough Committee members to form a quorum that they have reviewed the petitions and responses provided, the Chair shall set a time for a meeting of the Committee to decide the matter at hand and notify the Committee in writing of such a time. Unless all Committee members who have not recused themselves request a physical gathering, the meeting shall take place by telephone or video conference, to be arranged by the Chair. When not considering matters during a State Convention, the Committee may by a two‐thirds vote deliberate in open session; other‐ wise, deliberations shall be in executive session. However, any oral arguments shall be in open session, and any decision shall be rendered in writing, which written decision shall be public. The Committee may at its discretion offer to the petitioners and respondents an equal opportunity to make their arguments orally via telephone, video, or physical conference, under such rules as the Committee shall specify. Committee members who are unable to participate in the meeting shall retain the right to vote by electronic mail or phone, provided their vote is received by the Chair no later than 10 days after the meeting.
+After the time period for responses has passed, and the Chair has been advised by enough Committee members to form a quorum that they have reviewed the petitions and responses provided, the Chair shall set a time for a meeting of the Committee to decide the matter at hand and notify the Committee in writing of such a time. Unless all Committee members who have not recused themselves request a physical gathering, the meeting shall take place by telephone or video conference, to be arranged by the Chair. When not considering matters during a State Convention, the Committee may by a two‐thirds vote deliberate in open session; otherwise, deliberations shall be in executive session. However, any oral arguments shall be in open session, and any decision shall be rendered in writing, which written decision shall be public. The Committee may at its discretion offer to the petitioners and respondents an equal opportunity to make their arguments orally via telephone, video, or physical conference, under such rules as the Committee shall specify. Committee members who are unable to participate in the meeting shall retain the right to vote by electronic mail or phone, provided their vote is received by the Chair no later than 10 days after the meeting.
 
 ### Rule 14
 

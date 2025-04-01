@@ -10,56 +10,6 @@
  * MIT license
  */
 
-@font-face {
-	font-family: 'Merriweather';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Merriweather Light');
-}
-@font-face {
-	font-family: 'Merriweather';
-	font-style: normal;
-	font-weight: bold;
-	src: local('Merriweather Black');
-}
-@font-face {
-	font-family: 'Merriweather';
-	font-style: italic;
-	font-weight: normal;
-	src: local('Merriweather Light Italic');
-}
-@font-face {
-	font-family: 'Merriweather';
-	font-style: italic;
-	font-weight: bold;
-	src: local('Merriweather Black Italic');
-}
-
-@font-face {
-	font-family: 'Lato';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Lato Light')
-}
-@font-face {
-	font-family: 'Lato';
-	font-style: normal;
-	font-weight: bold;
-	src: local('Lato Black');
-}
-@font-face {
-	font-family: 'Lato';
-	font-style: italic;
-	font-weight: normal;
-	src: local('Lato Light Italic');
-}
-@font-face {
-	font-family: 'Lato';
-	font-style: italic;
-	font-weight: bold;
-	src: local('Lato Black Italic');
-}
-
 h1,
 .h1,
 .f1 {
