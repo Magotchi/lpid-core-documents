@@ -454,7 +454,7 @@ Governments, social movements, and religious institutions each have something to
 
 ### Principle
 
-Marriage is a private matter which the state has no rightful  to definerole. Adults have a responsibility to make wise decisions with whom they might engage sexually. The government has no business intervening in voluntary sexual matters among adults, nor should it require communities to approve of or participate in celebrations of any particular sexual behavior. Children cannot consent in sexual matters. It is the responsibility of parents to raise their children to make wise decisions regarding their sexual behavior, and the state should only intervene when there is reason to suspect abuse.
+Marriage is a private matter which the state has no rightful role to define. Adults have a responsibility to make wise decisions with whom they might engage sexually. The government has no business intervening in voluntary sexual matters among adults, nor should it require communities to approve of or participate in celebrations of any particular sexual behavior. Children cannot consent in sexual matters. It is the responsibility of parents to raise their children to make wise decisions regarding their sexual behavior, and the state should only intervene when there is reason to suspect abuse.
 
 ### Solution
 
